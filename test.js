@@ -10,7 +10,7 @@ async function fetchData() {
 function printMsg() {
   setTimeout(() => {
     return 'som'
-  }, 4000);
+  }, 5000);
 }
 
 fetchData();
