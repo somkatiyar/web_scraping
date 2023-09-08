@@ -1,0 +1,2002 @@
+ [
+        {
+            "adminCode1": "15",
+            "lng": "29.73944",
+            "geonameId": 203112,
+            "toponymName": "Butare",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 89600,
+            "countryCode": "RW",
+            "name": "Butare",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.59667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.63497",
+            "geonameId": 201521,
+            "toponymName": "Musanze",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 86685,
+            "countryCode": "RW",
+            "name": "Ruhengeri",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.49984",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "28.9075",
+            "geonameId": 202326,
+            "toponymName": "Cyangugu",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 63883,
+            "countryCode": "RW",
+            "name": "Cyangugu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.4846",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.5427",
+            "geonameId": 202068,
+            "toponymName": "Kibungo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 46240,
+            "countryCode": "RW",
+            "name": "Kibungo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-2.1597",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.5564",
+            "geonameId": 201865,
+            "toponymName": "Nzega",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 33832,
+            "countryCode": "RW",
+            "name": "Nzega",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.479",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "30.02111",
+            "geonameId": 9172234,
+            "toponymName": "Gatuna",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Gatuna",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.435",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.9033",
+            "geonameId": 384437,
+            "toponymName": "Tare",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Tare",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.7152",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.9702",
+            "geonameId": 384442,
+            "toponymName": "Mbogo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mbogo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.7664",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.9485",
+            "geonameId": 384641,
+            "toponymName": "Cyungo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Cyungo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.6193",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.746",
+            "geonameId": 202977,
+            "toponymName": "Gashaki",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Gashaki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.5434",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "30.0029",
+            "geonameId": 203028,
+            "toponymName": "Buyoga",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Buyoga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.6895",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.80211",
+            "geonameId": 203035,
+            "toponymName": "Butare",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Butare",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.25002",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.5434",
+            "geonameId": 203119,
+            "toponymName": "Busogo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Busogo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.5584",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.3226",
+            "geonameId": 201650,
+            "toponymName": "Nyagatare",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nyagatare",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.2952",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.5591",
+            "geonameId": 202080,
+            "toponymName": "Kibeho",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kibeho",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6465",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.7513",
+            "geonameId": 202174,
+            "toponymName": "Kabgayi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kabgayi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.097",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.4816",
+            "geonameId": 202300,
+            "toponymName": "Gahini",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Gahini",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.8406",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.9542",
+            "geonameId": 202332,
+            "toponymName": "Tumba",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Tumba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.6989",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.96238",
+            "geonameId": 202345,
+            "toponymName": "Shyorongi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Shyorongi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.85439",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.62541",
+            "geonameId": 202557,
+            "toponymName": "Ngororero",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ngororero",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.8628",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "30.1697",
+            "geonameId": 202572,
+            "toponymName": "Ndera",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ndera",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Kigali",
+            "lat": "-1.9495",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "30.06",
+            "geonameId": 202720,
+            "toponymName": "Masoro",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Masoro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.8191",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "30.1118",
+            "geonameId": 202810,
+            "toponymName": "Kicukiro",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kicukiro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Kigali",
+            "lat": "-1.977",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.6309",
+            "geonameId": 7319888,
+            "toponymName": "Opyrwa",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Opyrwa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.5083",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.51669",
+            "geonameId": 7320309,
+            "toponymName": "Karandaryi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Karandaryi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.62511",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.716",
+            "geonameId": 383968,
+            "toponymName": "Huye",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Huye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.5805",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.5205",
+            "geonameId": 384535,
+            "toponymName": "Kayonza",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kayonza",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.9509",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.9586",
+            "geonameId": 202937,
+            "toponymName": "Gisha",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Gisha",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.744",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.5182",
+            "geonameId": 202940,
+            "toponymName": "Giseke",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Giseke",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.5807",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.3528",
+            "geonameId": 202961,
+            "toponymName": "Gasinga",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Gasinga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.2081",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "30.14055",
+            "geonameId": 202986,
+            "toponymName": "Gasabo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Gasabo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Kigali",
+            "lat": "-1.79385",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.2425",
+            "geonameId": 202987,
+            "toponymName": "Ngarama",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ngarama",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.544",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.756",
+            "geonameId": 203017,
+            "toponymName": "Cyarwa",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Cyarwa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6283",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.6041",
+            "geonameId": 203022,
+            "toponymName": "Cyuna",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Cyuna",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6979",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.8632",
+            "geonameId": 203023,
+            "toponymName": "Curusi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Curusi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.4594",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.7354",
+            "geonameId": 203029,
+            "toponymName": "Buvumo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Buvumo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6789",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.6354",
+            "geonameId": 203055,
+            "toponymName": "Bunge",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Bunge",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.7046",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.0077",
+            "geonameId": 203141,
+            "toponymName": "Bugarama",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Bugarama",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.6924",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.42621",
+            "geonameId": 201359,
+            "toponymName": "Zaza",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Zaza",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-2.16965",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.5315",
+            "geonameId": 201453,
+            "toponymName": "Rwankeri",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rwankeri",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.5842",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.5225",
+            "geonameId": 201509,
+            "toponymName": "Rukoko",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rukoko",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.0567",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.9304",
+            "geonameId": 201570,
+            "toponymName": "Kivuye",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kivuye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.4886",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "30.1208",
+            "geonameId": 201572,
+            "toponymName": "Cyuru",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Cyuru",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.644",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.8694",
+            "geonameId": 201624,
+            "toponymName": "Nyamiyaga",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nyamiyaga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.3451",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.6622",
+            "geonameId": 201736,
+            "toponymName": "Muyunzwe",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Muyunzwe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.1631",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.86",
+            "geonameId": 201838,
+            "toponymName": "Mugombwa",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mugombwa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.676",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.608",
+            "geonameId": 201856,
+            "toponymName": "Mpanda",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mpanda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6459",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.7534",
+            "geonameId": 201875,
+            "toponymName": "Mwulire",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mwulire",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.5434",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.24122",
+            "geonameId": 201876,
+            "toponymName": "Muvumba",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Muvumba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.38253",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.122",
+            "geonameId": 201906,
+            "toponymName": "Cyondo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Cyondo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.4375",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "28.9566",
+            "geonameId": 201923,
+            "toponymName": "Mibinzi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mibinzi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.572",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.7804",
+            "geonameId": 202079,
+            "toponymName": "Kibilizi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kibilizi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6493",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.5927",
+            "geonameId": 202136,
+            "toponymName": "Bukamira",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Bukamira",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.3365",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "28.9022",
+            "geonameId": 202137,
+            "toponymName": "Kamembe",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kamembe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.4798",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.679",
+            "geonameId": 202185,
+            "toponymName": "Janja",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Janja",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.6834",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.4201",
+            "geonameId": 202190,
+            "toponymName": "Shywa",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Shywa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-2.1032",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.8229",
+            "geonameId": 202249,
+            "toponymName": "Cyamukuza",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Cyamukuza",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.5852",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.7559",
+            "geonameId": 202353,
+            "toponymName": "Sahera",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Sahera",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.6315",
+            "geonameId": 202356,
+            "toponymName": "Shanga",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Shanga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.5394",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.9293",
+            "geonameId": 202372,
+            "toponymName": "Rwahi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rwahi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.8573",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "28.9139",
+            "geonameId": 202396,
+            "toponymName": "Rusunyu",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rusunyu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.4267",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.8258",
+            "geonameId": 202419,
+            "toponymName": "Rukore",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rukore",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.58073",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.7781",
+            "geonameId": 202430,
+            "toponymName": "Ruhinga I",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ruhinga I",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.6283",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.7922",
+            "geonameId": 202435,
+            "toponymName": "Ruhangali",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ruhangali",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.6821",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.3785",
+            "geonameId": 202439,
+            "toponymName": "Rugote",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rugote",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.9246",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.9556",
+            "geonameId": 202446,
+            "toponymName": "Rugalika",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rugalika",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.0371",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.3025",
+            "geonameId": 202466,
+            "toponymName": "Rubavu",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Rubavu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.6894",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.881",
+            "geonameId": 202524,
+            "toponymName": "Nyakabungo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nyakabungo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.2071",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.6788",
+            "geonameId": 202528,
+            "toponymName": "Nyakabanda",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nyakabanda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.7536",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.61525",
+            "geonameId": 202530,
+            "toponymName": "Nyagisozi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nyagisozi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.76164",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.66958",
+            "geonameId": 202539,
+            "toponymName": "Nyabisindu",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nyabisindu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.34162",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.2967",
+            "geonameId": 202546,
+            "toponymName": "Ntebe",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ntebe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-2.0824",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "28.9326",
+            "geonameId": 202553,
+            "toponymName": "Nkanga",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nkanga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.4138",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "30.0757",
+            "geonameId": 202561,
+            "toponymName": "Ngiryi",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ngiryi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Kigali",
+            "lat": "-1.8441",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "30.112",
+            "geonameId": 202570,
+            "toponymName": "Nduba",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Nduba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Kigali",
+            "lat": "-1.8555",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.6139",
+            "geonameId": 202574,
+            "toponymName": "Ntaganzwa",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ntaganzwa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.895",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.7973",
+            "geonameId": 202591,
+            "toponymName": "Muzenga",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Muzenga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.623",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.3728",
+            "geonameId": 202614,
+            "toponymName": "Musheli",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Musheli",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-1.1336",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.8172",
+            "geonameId": 202625,
+            "toponymName": "Musamo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Musamo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.2387",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "28.9786",
+            "geonameId": 202632,
+            "toponymName": "Mwito",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mwito",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.3962",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.5403",
+            "geonameId": 202643,
+            "toponymName": "Ramba",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ramba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.8674",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.5294",
+            "geonameId": 202655,
+            "toponymName": "Munini",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Munini",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.7119",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.2802",
+            "geonameId": 202662,
+            "toponymName": "Murehe",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Murehe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-2.0079",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.1575",
+            "geonameId": 202712,
+            "toponymName": "Mbyo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mbyo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-2.2263",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.8508",
+            "geonameId": 202724,
+            "toponymName": "Kareba",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kareba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.2641",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.3442",
+            "geonameId": 202726,
+            "toponymName": "Marabuye",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Marabuye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.8967",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.6432",
+            "geonameId": 202740,
+            "toponymName": "Ruhunga",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ruhunga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.8618",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "30.0845",
+            "geonameId": 202746,
+            "toponymName": "Kiyombe",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kiyombe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.44396",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "30.179",
+            "geonameId": 202753,
+            "toponymName": "Kabira",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kabira",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.7284",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.6614",
+            "geonameId": 202755,
+            "toponymName": "Kiziguro",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kiziguro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.7866",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.7359",
+            "geonameId": 202802,
+            "toponymName": "Kigembe",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kigembe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.7756",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "11",
+            "lng": "30.0345",
+            "geonameId": 202811,
+            "toponymName": "Kibungo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kibungo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Province",
+            "lat": "-2.0849",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.8396",
+            "geonameId": 202840,
+            "toponymName": "Kirambo",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kirambo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.6236",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "29.37571",
+            "geonameId": 202851,
+            "toponymName": "Kanzenze",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kanzenze",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-1.63191",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "30.0827",
+            "geonameId": 202869,
+            "toponymName": "Kacyiru",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kacyiru",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Kigali",
+            "lat": "-1.9342",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "30.05078",
+            "geonameId": 202879,
+            "toponymName": "Kabuye",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Kabuye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Kigali",
+            "lat": "-1.87531",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.9519",
+            "geonameId": 202896,
+            "toponymName": "Jenda",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Jenda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.1371",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "15",
+            "lng": "29.599",
+            "geonameId": 7016310,
+            "toponymName": "Mpanda",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Mpanda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Province",
+            "lat": "-2.6559",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "28.91",
+            "geonameId": 7032735,
+            "toponymName": "Cinq-Juillet",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Cinq-Juillet",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Western Province",
+            "lat": "-2.4736",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "29.7464",
+            "geonameId": 7319976,
+            "toponymName": "Ruhangiro",
+            "countryId": "49518",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "RW",
+            "name": "Ruhangiro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Rwanda",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Province",
+            "lat": "-1.5364",
+            "fcode": "PPL"
+        }
+    ]

@@ -1,0 +1,2002 @@
+[
+        {
+            "adminCode1": "34",
+            "lng": "139.6853",
+            "geonameId": 1907301,
+            "toponymName": "Shimotoda",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 118731,
+            "countryCode": "JP",
+            "name": "Shimotoda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "11"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saitama",
+            "lat": "35.815",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "45",
+            "lng": "130.93713",
+            "geonameId": 1852225,
+            "toponymName": "Shimonoseki",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 265684,
+            "countryCode": "JP",
+            "name": "Shimonoseki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "35"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Yamaguchi",
+            "lat": "33.95548",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "40",
+            "lng": "139.88861",
+            "geonameId": 1849186,
+            "toponymName": "Urayasu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 170091,
+            "countryCode": "JP",
+            "name": "Urayasu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "13"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Tokyo",
+            "lat": "35.67056",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "135.41667",
+            "geonameId": 1859675,
+            "toponymName": "Kawanishi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 155165,
+            "countryCode": "JP",
+            "name": "Kawanishi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "28"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hyōgo",
+            "lat": "34.81667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "140.06642",
+            "geonameId": 6822174,
+            "toponymName": "Nasushiobara",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 115794,
+            "countryCode": "JP",
+            "name": "Nasushiobara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "09"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Tochigi",
+            "lat": "36.97682",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.58354",
+            "geonameId": 2129395,
+            "toponymName": "Kuroishi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 38615,
+            "countryCode": "JP",
+            "name": "Kuroishi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.64581",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "29",
+            "lng": "139.1224",
+            "geonameId": 1855410,
+            "toponymName": "Niitsu-honchō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 65910,
+            "countryCode": "JP",
+            "name": "Niitsu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "15"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Niigata",
+            "lat": "37.80024",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "139.44279",
+            "geonameId": 1857144,
+            "toponymName": "Minamirinkan",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 224015,
+            "countryCode": "JP",
+            "name": "Minamirinkan",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "14"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kanagawa",
+            "lat": "35.49527",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "135.1501",
+            "geonameId": 1852383,
+            "toponymName": "Minato",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 375339,
+            "countryCode": "JP",
+            "name": "Minato",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "30"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Wakayama",
+            "lat": "34.2152",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "135.22694",
+            "geonameId": 1853008,
+            "toponymName": "Sandachō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 132858,
+            "countryCode": "JP",
+            "name": "Sandachō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "28"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hyōgo",
+            "lat": "34.88444",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "139.63333",
+            "geonameId": 1848254,
+            "toponymName": "Yono",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 102364,
+            "countryCode": "JP",
+            "name": "Yono",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "11"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saitama",
+            "lat": "35.88333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "130.59952",
+            "geonameId": 1848445,
+            "toponymName": "Honmachi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 27592,
+            "countryCode": "JP",
+            "name": "Honmachi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "43"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kumamoto",
+            "lat": "32.50439",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "45",
+            "lng": "131.81667",
+            "geonameId": 1850152,
+            "toponymName": "Tokuyama",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 101133,
+            "countryCode": "JP",
+            "name": "Tokuyama",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "35"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Yamaguchi",
+            "lat": "34.05",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "40",
+            "lng": "139.5383",
+            "geonameId": 1850692,
+            "toponymName": "Nishi-Tokyo-shi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 195164,
+            "countryCode": "JP",
+            "name": "Nishi-Tokyo-shi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "13"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Tokyo",
+            "lat": "35.72526",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "06",
+            "lng": "136.16687",
+            "geonameId": 1850872,
+            "toponymName": "Takefu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 75753,
+            "countryCode": "JP",
+            "name": "Takefu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "18"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Fukui",
+            "lat": "35.90393",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "37",
+            "lng": "137.78333",
+            "geonameId": 1863293,
+            "toponymName": "Hamakita",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 86502,
+            "countryCode": "JP",
+            "name": "Hamakita",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "22"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Shizuoka",
+            "lat": "34.8",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "134.82905",
+            "geonameId": 1860704,
+            "toponymName": "Kakogawachō-honmachi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 271634,
+            "countryCode": "JP",
+            "name": "Kakogawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "28"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hyōgo",
+            "lat": "34.76943",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "139.69644",
+            "geonameId": 1861164,
+            "toponymName": "Iwatsuki",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 108833,
+            "countryCode": "JP",
+            "name": "Iwatsuki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "11"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saitama",
+            "lat": "35.96474",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "144.97181",
+            "geonameId": 2129034,
+            "toponymName": "Nakashibetsu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 24014,
+            "countryCode": "JP",
+            "name": "Nakashibetsu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.54849",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "140.78722",
+            "geonameId": 2130146,
+            "toponymName": "Hanawa",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 36925,
+            "countryCode": "JP",
+            "name": "Hanawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "05"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Akita",
+            "lat": "40.18361",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "130.20148",
+            "geonameId": 1857844,
+            "toponymName": "Maebaru-chūō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 70339,
+            "countryCode": "JP",
+            "name": "Maebaru-chūō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "40"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Fukuoka",
+            "lat": "33.55916",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "139.98333",
+            "geonameId": 1852347,
+            "toponymName": "Shimodate",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 63666,
+            "countryCode": "JP",
+            "name": "Shimodate",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "08"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Ibaraki",
+            "lat": "36.3",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "130.87161",
+            "geonameId": 1853433,
+            "toponymName": "Ōzu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 33793,
+            "countryCode": "JP",
+            "name": "Ōzu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "43"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kumamoto",
+            "lat": "32.8804",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "139.51998",
+            "geonameId": 1854530,
+            "toponymName": "Ōi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 50593,
+            "countryCode": "JP",
+            "name": "Ōi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "11"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saitama",
+            "lat": "35.85091",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "132.50846",
+            "geonameId": 1854774,
+            "toponymName": "Ōdachō-ōda",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 34354,
+            "countryCode": "JP",
+            "name": "Ōdachō-ōda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "32"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Shimane",
+            "lat": "35.19025",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "139.51369",
+            "geonameId": 1907125,
+            "toponymName": "Kamifukuoka",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 52323,
+            "countryCode": "JP",
+            "name": "Kamifukuoka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "11"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saitama",
+            "lat": "35.87266",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "140.88611",
+            "geonameId": 2110744,
+            "toponymName": "Tomiya",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 52433,
+            "countryCode": "JP",
+            "name": "Tomiya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Miyagi",
+            "lat": "38.39306",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "140.16667",
+            "geonameId": 2111749,
+            "toponymName": "Naka",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 53137,
+            "countryCode": "JP",
+            "name": "Naka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "08"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Ibaraki",
+            "lat": "36.05",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "141.13333",
+            "geonameId": 2111859,
+            "toponymName": "Mizusawa",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 61281,
+            "countryCode": "JP",
+            "name": "Mizusawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Iwate",
+            "lat": "39.13333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "140.05",
+            "geonameId": 2112077,
+            "toponymName": "Kuroiso",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 61230,
+            "countryCode": "JP",
+            "name": "Kuroiso",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "09"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Tochigi",
+            "lat": "36.96667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "140.53333",
+            "geonameId": 2112312,
+            "toponymName": "Katsuta",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 155968,
+            "countryCode": "JP",
+            "name": "Katsuta",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "08"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Ibaraki",
+            "lat": "36.38333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "140.95556",
+            "geonameId": 2112899,
+            "toponymName": "Furukawa",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 76312,
+            "countryCode": "JP",
+            "name": "Furukawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "04"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Miyagi",
+            "lat": "38.57167",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "30",
+            "lng": "131.69165",
+            "geonameId": 1849561,
+            "toponymName": "Tsurusaki",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 76968,
+            "countryCode": "JP",
+            "name": "Tsurusaki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "44"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Oita",
+            "lat": "33.24528",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "47",
+            "lng": "125.30222",
+            "geonameId": 1862505,
+            "toponymName": "Hirara",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 34354,
+            "countryCode": "JP",
+            "name": "Hirara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "47"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Okinawa",
+            "lat": "24.80379",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "30",
+            "lng": "131.53025",
+            "geonameId": 1862689,
+            "toponymName": "Hiji",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 28524,
+            "countryCode": "JP",
+            "name": "Hiji",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "44"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Oita",
+            "lat": "33.37081",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "139.7425",
+            "geonameId": 1863023,
+            "toponymName": "Hatogaya-honchō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 53062,
+            "countryCode": "JP",
+            "name": "Hatogaya-honchō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "11"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saitama",
+            "lat": "35.83314",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "47",
+            "lng": "127.86735",
+            "geonameId": 1863495,
+            "toponymName": "Gushikawa",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 65251,
+            "countryCode": "JP",
+            "name": "Gushikawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "47"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Okinawa",
+            "lat": "26.35937",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "27",
+            "lng": "128.84561",
+            "geonameId": 1863997,
+            "toponymName": "Fukuechō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 26636,
+            "countryCode": "JP",
+            "name": "Fukuechō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "42"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Nagasaki",
+            "lat": "32.69732",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "134.38734",
+            "geonameId": 1865412,
+            "toponymName": "Kariya",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 52015,
+            "countryCode": "JP",
+            "name": "Kariya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "28"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hyōgo",
+            "lat": "34.75136",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "18",
+            "lng": "130.76667",
+            "geonameId": 1858972,
+            "toponymName": "Kokubu-matsuki",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 57896,
+            "countryCode": "JP",
+            "name": "Kokubu-matsuki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "46"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kagoshima",
+            "lat": "31.73333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "32",
+            "lng": "135.31667",
+            "geonameId": 1861091,
+            "toponymName": "Izumisano",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 98840,
+            "countryCode": "JP",
+            "name": "Izumisano",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "27"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Ōsaka",
+            "lat": "34.41667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "33",
+            "lng": "129.87877",
+            "geonameId": 1861677,
+            "toponymName": "Imarichō-kō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 57940,
+            "countryCode": "JP",
+            "name": "Imarichō-kō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "41"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saga",
+            "lat": "33.27362",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "139.68333",
+            "geonameId": 1861699,
+            "toponymName": "Imaichi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 64323,
+            "countryCode": "JP",
+            "name": "Imaichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "09"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Tochigi",
+            "lat": "36.71667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "130.16713",
+            "geonameId": 1862230,
+            "toponymName": "Hondomachi-hondo",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 40787,
+            "countryCode": "JP",
+            "name": "Hondomachi-hondo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "43"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kumamoto",
+            "lat": "32.45993",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "46",
+            "lng": "138.68832",
+            "geonameId": 7281819,
+            "toponymName": "Fujikawaguchiko",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 26540,
+            "countryCode": "JP",
+            "name": "Fujikawaguchiko",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "19"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Yamanashi",
+            "lat": "35.48933",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "135.62244",
+            "geonameId": 6417596,
+            "toponymName": "Kōya",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 3279,
+            "countryCode": "JP",
+            "name": "Kōya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "30"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Wakayama",
+            "lat": "34.21294",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "132.68343",
+            "geonameId": 6691616,
+            "toponymName": "Kihoku-chō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 10772,
+            "countryCode": "JP",
+            "name": "Kihoku",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "38"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Ehime",
+            "lat": "33.25592",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "42",
+            "lng": "136.91162",
+            "geonameId": 6694821,
+            "toponymName": "Nanto-shi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 47976,
+            "countryCode": "JP",
+            "name": "Nanto-shi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "16"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Toyama",
+            "lat": "36.56922",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.43198",
+            "geonameId": 8476318,
+            "toponymName": "Tsuruta",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 12870,
+            "countryCode": "JP",
+            "name": "Tsuruta",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.75221",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "26",
+            "lng": "138.25041",
+            "geonameId": 8604658,
+            "toponymName": "Fujimi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 14485,
+            "countryCode": "JP",
+            "name": "Fujimi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "20"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Nagano",
+            "lat": "35.90087",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "143.7458",
+            "geonameId": 2128407,
+            "toponymName": "Rikubetsu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 2528,
+            "countryCode": "JP",
+            "name": "Rikubetsu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.47095",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "145.19197",
+            "geonameId": 2128430,
+            "toponymName": "Rausu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 5395,
+            "countryCode": "JP",
+            "name": "Rausu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.01806",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "142.34306",
+            "geonameId": 2128490,
+            "toponymName": "Bifuka",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 4609,
+            "countryCode": "JP",
+            "name": "Piuka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.47528",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "143.20028",
+            "geonameId": 2128558,
+            "toponymName": "Otofuke",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 44235,
+            "countryCode": "JP",
+            "name": "Otofuke",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "42.99167",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "142.96134",
+            "geonameId": 2128673,
+            "toponymName": "Ōmu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 4596,
+            "countryCode": "JP",
+            "name": "Ōmu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.57778",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "143.12",
+            "geonameId": 2128714,
+            "toponymName": "Okoppe",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 3963,
+            "countryCode": "JP",
+            "name": "Okoppe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.46944",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "140.69386",
+            "geonameId": 2129003,
+            "toponymName": "Honchō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 28514,
+            "countryCode": "JP",
+            "name": "Honchō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "41.8944",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.59048",
+            "geonameId": 2129005,
+            "toponymName": "Namioka",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 20681,
+            "countryCode": "JP",
+            "name": "Namioka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.71069",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "142.29263",
+            "geonameId": 2129025,
+            "toponymName": "Nakatonbetsu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 1776,
+            "countryCode": "JP",
+            "name": "Naka-tombetsu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.97413",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "142.07816",
+            "geonameId": 2129063,
+            "toponymName": "Nakagawa",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 1585,
+            "countryCode": "JP",
+            "name": "Nakagawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.81448",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "143.3525",
+            "geonameId": 2129163,
+            "toponymName": "Mombetsu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 22983,
+            "countryCode": "JP",
+            "name": "Mombetsu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.3525",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "140.77028",
+            "geonameId": 2129218,
+            "toponymName": "Yoichi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 18993,
+            "countryCode": "JP",
+            "name": "Yoichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.20389",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "141.82111",
+            "geonameId": 2129324,
+            "toponymName": "Makubetsu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 26610,
+            "countryCode": "JP",
+            "name": "Makubetsu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "45.37139",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "140.30611",
+            "geonameId": 2129387,
+            "toponymName": "Kuromatsunai",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 2739,
+            "countryCode": "JP",
+            "name": "Kuromatsunai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "42.66806",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.95556",
+            "geonameId": 2129464,
+            "toponymName": "Hiranai",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 10800,
+            "countryCode": "JP",
+            "name": "Hiranai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.92028",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.37539",
+            "geonameId": 2129513,
+            "toponymName": "Shimokizukuri",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 18907,
+            "countryCode": "JP",
+            "name": "Shimokizukuri",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.81609",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "142.357",
+            "geonameId": 2129587,
+            "toponymName": "Asahimachi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 3293,
+            "countryCode": "JP",
+            "name": "Kembuchi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.10045",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "143.28524",
+            "geonameId": 2129722,
+            "toponymName": "Kamishihoro",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 4908,
+            "countryCode": "JP",
+            "name": "Kamishihoro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.2351",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "140.64482",
+            "geonameId": 2129766,
+            "toponymName": "Kamiiso",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 38098,
+            "countryCode": "JP",
+            "name": "Kamiiso",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "41.82013",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "140.50889",
+            "geonameId": 2129868,
+            "toponymName": "Iwanai",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 13210,
+            "countryCode": "JP",
+            "name": "Iwanai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "42.97444",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.45502",
+            "geonameId": 2129884,
+            "toponymName": "Itayanagi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 13332,
+            "countryCode": "JP",
+            "name": "Itayanagi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.69546",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "141.28986",
+            "geonameId": 2129961,
+            "toponymName": "Ichinohe",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 12053,
+            "countryCode": "JP",
+            "name": "Ichinohe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "03"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Iwate",
+            "lat": "40.21965",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "141.85139",
+            "geonameId": 2129984,
+            "toponymName": "Horonobe",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 2415,
+            "countryCode": "JP",
+            "name": "Horonobe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "45.01694",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "142.15157",
+            "geonameId": 2130001,
+            "toponymName": "Horokanai",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 1571,
+            "countryCode": "JP",
+            "name": "Horokanai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.01173",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "143.29765",
+            "geonameId": 2130061,
+            "toponymName": "Hiroo",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 7182,
+            "countryCode": "JP",
+            "name": "Hiroo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "42.28234",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "141.49194",
+            "geonameId": 2130204,
+            "toponymName": "Hachinohe",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "JP",
+            "name": "Hachinohe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.505",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "141.70222",
+            "geonameId": 2130215,
+            "toponymName": "Haboro",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 7338,
+            "countryCode": "JP",
+            "name": "Haboro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.35778",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.49961",
+            "geonameId": 2130337,
+            "toponymName": "Fujisaki",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 14921,
+            "countryCode": "JP",
+            "name": "Fujisaki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.65314",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "141.78889",
+            "geonameId": 2130389,
+            "toponymName": "Kanaura",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 2966,
+            "countryCode": "JP",
+            "name": "Kanaura",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "44.70722",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "142.45972",
+            "geonameId": 2130531,
+            "toponymName": "Biei",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 10374,
+            "countryCode": "JP",
+            "name": "Biei",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.58444",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "141.52139",
+            "geonameId": 2130558,
+            "toponymName": "Mashike",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 4634,
+            "countryCode": "JP",
+            "name": "Mashike",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.85194",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "143.54278",
+            "geonameId": 2130603,
+            "toponymName": "Ashoro",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 7150,
+            "countryCode": "JP",
+            "name": "Ashoro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.23722",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "12",
+            "lng": "144.8525",
+            "geonameId": 2130677,
+            "toponymName": "Akkeshi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 8922,
+            "countryCode": "JP",
+            "name": "Akkeshi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "01"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Hokkaido",
+            "lat": "43.03556",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "140.20306",
+            "geonameId": 2130708,
+            "toponymName": "Ajigasawa",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 9613,
+            "countryCode": "JP",
+            "name": "Ajigasawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "02"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Aomori",
+            "lat": "40.77444",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "29",
+            "lng": "138.81331",
+            "geonameId": 1848015,
+            "toponymName": "Yuzawa",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 7926,
+            "countryCode": "JP",
+            "name": "Yuzawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "15"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Niigata",
+            "lat": "36.93804",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "44",
+            "lng": "139.92909",
+            "geonameId": 1848016,
+            "toponymName": "Yuza",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 13615,
+            "countryCode": "JP",
+            "name": "Yuza",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "06"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Yamagata",
+            "lat": "39.01573",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "139.06667",
+            "geonameId": 1848113,
+            "toponymName": "Yugawara",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 23267,
+            "countryCode": "JP",
+            "name": "Yugawara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "14"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kanagawa",
+            "lat": "35.15",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "139.25581",
+            "geonameId": 1855380,
+            "toponymName": "Ninomiya",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 27334,
+            "countryCode": "JP",
+            "name": "Ninomiya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "14"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kanagawa",
+            "lat": "35.3015",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "18",
+            "lng": "129.48333",
+            "geonameId": 1855540,
+            "toponymName": "Naze",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 41365,
+            "countryCode": "JP",
+            "name": "Naze",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "46"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kagoshima",
+            "lat": "28.36667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "10",
+            "lng": "138.84083",
+            "geonameId": 1855852,
+            "toponymName": "Nakanojōmachi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 15571,
+            "countryCode": "JP",
+            "name": "Nakanojōmachi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "10"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Gunma",
+            "lat": "36.58717",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "20",
+            "lng": "132.93333",
+            "geonameId": 1855891,
+            "toponymName": "Nakamura",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 34559,
+            "countryCode": "JP",
+            "name": "Nakamura",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "39"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kochi",
+            "lat": "32.98333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "130.44284",
+            "geonameId": 1856120,
+            "toponymName": "Nagasu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 16125,
+            "countryCode": "JP",
+            "name": "Nagasu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "43"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kumamoto",
+            "lat": "32.93257",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "20",
+            "lng": "134.16832",
+            "geonameId": 1856392,
+            "toponymName": "Muroto-misakicho",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 17601,
+            "countryCode": "JP",
+            "name": "Muroto-misakicho",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "39"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Kochi",
+            "lat": "33.28662",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "29",
+            "lng": "139.17127",
+            "geonameId": 1856426,
+            "toponymName": "Muramatsu",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 19712,
+            "countryCode": "JP",
+            "name": "Muramatsu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "15"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Niigata",
+            "lat": "37.69257",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "29",
+            "lng": "138.88333",
+            "geonameId": 1856476,
+            "toponymName": "Muikamachi",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 29123,
+            "countryCode": "JP",
+            "name": "Muikamachi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "15"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Niigata",
+            "lat": "37.06667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "139.30444",
+            "geonameId": 1856560,
+            "toponymName": "Morohongō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 39693,
+            "countryCode": "JP",
+            "name": "Morohongō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "11"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Saitama",
+            "lat": "35.93556",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "37",
+            "lng": "137.93333",
+            "geonameId": 1856586,
+            "toponymName": "Mori",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 18306,
+            "countryCode": "JP",
+            "name": "Mori",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "22"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Shizuoka",
+            "lat": "34.83333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "130.65297",
+            "geonameId": 1856828,
+            "toponymName": "Miyata",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 20421,
+            "countryCode": "JP",
+            "name": "Miyata",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "40"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Fukuoka",
+            "lat": "33.70811",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "14",
+            "lng": "139.98333",
+            "geonameId": 1856881,
+            "toponymName": "Mitsukaidō",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 41147,
+            "countryCode": "JP",
+            "name": "Mitsukaidō",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "08"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Ibaraki",
+            "lat": "36.01667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "09",
+            "lng": "137.13333",
+            "geonameId": 1856938,
+            "toponymName": "Mitake",
+            "countryId": "1861060",
+            "fcl": "P",
+            "population": 18363,
+            "countryCode": "JP",
+            "name": "Mitake",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "21"
+            },
+            "countryName": "Japan",
+            "fcodeName": "populated place",
+            "adminName1": "Gifu",
+            "lat": "35.41667",
+            "fcode": "PPL"
+        }
+    ]

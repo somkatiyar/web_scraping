@@ -1,0 +1,2002 @@
+ [
+        {
+            "adminCode1": "09",
+            "lng": "72.58727",
+            "geonameId": 1279233,
+            "toponymName": "Ahmedabad",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 6357693,
+            "countryCode": "IN",
+            "name": "Ahmedabad",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Gujarat",
+            "lat": "23.02579",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "73.85535",
+            "geonameId": 1259229,
+            "toponymName": "Pune",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 3124458,
+            "countryCode": "IN",
+            "name": "Pune",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "18.51957",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "09",
+            "lng": "72.83023",
+            "geonameId": 1255364,
+            "toponymName": "Surat",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 4591246,
+            "countryCode": "IN",
+            "name": "Surat",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Gujarat",
+            "lat": "21.19594",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "80.34975",
+            "geonameId": 1267995,
+            "toponymName": "Kanpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 2823249,
+            "countryCode": "IN",
+            "name": "Kanpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "26.46523",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "23",
+            "lng": "74.87534",
+            "geonameId": 1278710,
+            "toponymName": "Amritsar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1092450,
+            "countryCode": "IN",
+            "name": "Amritsar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "PB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Punjab",
+            "lat": "31.62234",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "74.85603",
+            "geonameId": 1263780,
+            "toponymName": "Mangalore",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 417387,
+            "countryCode": "IN",
+            "name": "Mangalore",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Karnataka",
+            "lat": "12.91723",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "23",
+            "lng": "75.85379",
+            "geonameId": 1264728,
+            "toponymName": "Ludhiāna",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1545368,
+            "countryCode": "IN",
+            "name": "Ludhiana",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "PB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Punjab",
+            "lat": "30.91204",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "75.83907",
+            "geonameId": 1266049,
+            "toponymName": "Kota",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 763088,
+            "countryCode": "IN",
+            "name": "Kota",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Rajasthan",
+            "lat": "25.18254",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "79.98697",
+            "geonameId": 1261529,
+            "toponymName": "Nellore",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 404158,
+            "countryCode": "IN",
+            "name": "Nellore",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Andhra Pradesh",
+            "lat": "14.44992",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "77.31497",
+            "geonameId": 1261977,
+            "toponymName": "Nanded",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 550564,
+            "countryCode": "IN",
+            "name": "Nanded",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "19.16023",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "77.70636",
+            "geonameId": 1263214,
+            "toponymName": "Meerut",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1223184,
+            "countryCode": "IN",
+            "name": "Meerut",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "28.98002",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "75.91044",
+            "geonameId": 1256436,
+            "toponymName": "Solāpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 997281,
+            "countryCode": "IN",
+            "name": "Solapur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "17.67152",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "78.15538",
+            "geonameId": 1257629,
+            "toponymName": "Salem",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 917414,
+            "countryCode": "IN",
+            "name": "Salem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "11.65376",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "84.86414",
+            "geonameId": 1258315,
+            "toponymName": "Raurkela",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 536450,
+            "countryCode": "IN",
+            "name": "Raurkela",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "OR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Odisha",
+            "lat": "22.22496",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "09",
+            "lng": "70.79322",
+            "geonameId": 1258847,
+            "toponymName": "Rājkot",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1390640,
+            "countryCode": "IN",
+            "name": "Rajkot",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Gujarat",
+            "lat": "22.29161",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "73.05881",
+            "geonameId": 1275901,
+            "toponymName": "Bhiwandi",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 874032,
+            "countryCode": "IN",
+            "name": "Bhiwandi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "19.30023",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "37",
+            "lng": "81.4285",
+            "geonameId": 1275971,
+            "toponymName": "Bhilai",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 625138,
+            "countryCode": "IN",
+            "name": "Bhilai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "CT"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Chhattisgarh",
+            "lat": "21.20919",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "09",
+            "lng": "72.15331",
+            "geonameId": 1276032,
+            "toponymName": "Bhavnagar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 605882,
+            "countryCode": "IN",
+            "name": "Bhavnagar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Gujarat",
+            "lat": "21.76287",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "74.50447",
+            "geonameId": 1276533,
+            "toponymName": "Belgaum",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 428720,
+            "countryCode": "IN",
+            "name": "Belgaum",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Karnataka",
+            "lat": "15.85212",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "79.43167",
+            "geonameId": 1277013,
+            "toponymName": "Bareilly",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 745435,
+            "countryCode": "IN",
+            "name": "Bareilly",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "28.36678",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "76.83757",
+            "geonameId": 1270752,
+            "toponymName": "Gulbarga",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 483615,
+            "countryCode": "IN",
+            "name": "Kalaburgi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Karnataka",
+            "lat": "17.33583",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "83.36889",
+            "geonameId": 1270927,
+            "toponymName": "Gorakhpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 674246,
+            "countryCode": "IN",
+            "name": "Gorakhpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "26.76628",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "91.7458",
+            "geonameId": 1271476,
+            "toponymName": "Guwahati",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 899094,
+            "countryCode": "IN",
+            "name": "Guwahati",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AS"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Assam",
+            "lat": "26.1844",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "10",
+            "lng": "77.31316",
+            "geonameId": 1271951,
+            "toponymName": "Faridabad",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1220229,
+            "countryCode": "IN",
+            "name": "Faridabad",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Haryana",
+            "lat": "28.41124",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "77.72741",
+            "geonameId": 1272013,
+            "toponymName": "Erode",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 521891,
+            "countryCode": "IN",
+            "name": "Erode",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "11.3428",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "28",
+            "lng": "87.30801",
+            "geonameId": 1272175,
+            "toponymName": "Durgapur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 518872,
+            "countryCode": "IN",
+            "name": "Durgapur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "West Bengal",
+            "lat": "23.51583",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "85.87927",
+            "geonameId": 1273780,
+            "toponymName": "Cuttack",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 580000,
+            "countryCode": "IN",
+            "name": "Cuttack",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "OR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Odisha",
+            "lat": "20.46497",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "76.96612",
+            "geonameId": 1273865,
+            "toponymName": "Coimbatore",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 2136916,
+            "countryCode": "IN",
+            "name": "Coimbatore",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "11.00555",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "76.26022",
+            "geonameId": 1273874,
+            "toponymName": "Cochin",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 604696,
+            "countryCode": "IN",
+            "name": "Kochi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KL"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Kerala",
+            "lat": "9.93988",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "23",
+            "lng": "75.57917",
+            "geonameId": 1268782,
+            "toponymName": "Jalandhar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 785178,
+            "countryCode": "IN",
+            "name": "Jalandhar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "PB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Punjab",
+            "lat": "31.32556",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "73.00594",
+            "geonameId": 1268865,
+            "toponymName": "Jodhpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 921476,
+            "countryCode": "IN",
+            "name": "Jodhpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Rajasthan",
+            "lat": "26.26841",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "86.18545",
+            "geonameId": 1269300,
+            "toponymName": "Jamshedpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1339438,
+            "countryCode": "IN",
+            "name": "Jamshedpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "JH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Jharkhand",
+            "lat": "22.80278",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "75.56602",
+            "geonameId": 1269407,
+            "toponymName": "Jalgaon",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 429298,
+            "countryCode": "IN",
+            "name": "Jalgaon",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "21.00292",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "35",
+            "lng": "79.95006",
+            "geonameId": 1269633,
+            "toponymName": "Jabalpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1030168,
+            "countryCode": "IN",
+            "name": "Jabalpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Madhya Pradesh",
+            "lat": "23.16697",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "35",
+            "lng": "75.8333",
+            "geonameId": 1269743,
+            "toponymName": "Indore",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1837041,
+            "countryCode": "IN",
+            "name": "Indore",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Madhya Pradesh",
+            "lat": "22.71792",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "28",
+            "lng": "88.31857",
+            "geonameId": 1270396,
+            "toponymName": "Hāora",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1027672,
+            "countryCode": "IN",
+            "name": "Howrah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "West Bengal",
+            "lat": "22.57688",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "80.6466",
+            "geonameId": 1253184,
+            "toponymName": "Vijayawada",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 874587,
+            "countryCode": "IN",
+            "name": "Vijayawada",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Andhra Pradesh",
+            "lat": "16.50745",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "83.01041",
+            "geonameId": 1253405,
+            "toponymName": "Varanasi",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1164404,
+            "countryCode": "IN",
+            "name": "Varanasi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "25.31668",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "09",
+            "lng": "73.20812",
+            "geonameId": 1253573,
+            "toponymName": "Vadodara",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1822221,
+            "countryCode": "IN",
+            "name": "Vadodara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Gujarat",
+            "lat": "22.29941",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "35",
+            "lng": "75.77643",
+            "geonameId": 1253914,
+            "toponymName": "Ujjain",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 457346,
+            "countryCode": "IN",
+            "name": "Ujjain",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Madhya Pradesh",
+            "lat": "23.18239",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "77.35456",
+            "geonameId": 1254348,
+            "toponymName": "Tiruppur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 963173,
+            "countryCode": "IN",
+            "name": "Tirupur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "11.11541",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "78.69651",
+            "geonameId": 1254388,
+            "toponymName": "Tiruchirappalli",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1022518,
+            "countryCode": "IN",
+            "name": "Tiruchi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "10.8155",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "72.96355",
+            "geonameId": 1254661,
+            "toponymName": "Thāne",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1261517,
+            "countryCode": "IN",
+            "name": "Thāne",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "19.19704",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "76.625",
+            "geonameId": 1278946,
+            "toponymName": "Alwar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 283228,
+            "countryCode": "IN",
+            "name": "Alwar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Rajasthan",
+            "lat": "27.56246",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "81.84322",
+            "geonameId": 1278994,
+            "toponymName": "Allahābād",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1073438,
+            "countryCode": "IN",
+            "name": "Prayagraj",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "25.44478",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "78.07464",
+            "geonameId": 1279017,
+            "toponymName": "Alīgarh",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 753207,
+            "countryCode": "IN",
+            "name": "Aligarh",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "27.88145",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "74.63867",
+            "geonameId": 1279159,
+            "toponymName": "Ajmer",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 517911,
+            "countryCode": "IN",
+            "name": "Ajmer",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Rajasthan",
+            "lat": "26.4521",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "83.56111",
+            "geonameId": 1263311,
+            "toponymName": "Mau",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 246050,
+            "countryCode": "IN",
+            "name": "Mau",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "25.94167",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "77.67215",
+            "geonameId": 1263364,
+            "toponymName": "Mathura",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 330511,
+            "countryCode": "IN",
+            "name": "Mathura",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "27.5035",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "76.89746",
+            "geonameId": 1263814,
+            "toponymName": "Mandya",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 134845,
+            "countryCode": "IN",
+            "name": "Mandya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Karnataka",
+            "lat": "12.5223",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "35",
+            "lng": "75.06986",
+            "geonameId": 1263834,
+            "toponymName": "Mandsaur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 124988,
+            "countryCode": "IN",
+            "name": "Mandsaur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Madhya Pradesh",
+            "lat": "24.07184",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "76.08154",
+            "geonameId": 1264154,
+            "toponymName": "Malappuram",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 101386,
+            "countryCode": "IN",
+            "name": "Malappuram",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KL"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Kerala",
+            "lat": "11.04199",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "78.50288",
+            "geonameId": 1264621,
+            "toponymName": "Madanapalle",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 108593,
+            "countryCode": "IN",
+            "name": "Madanapalle",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Andhra Pradesh",
+            "lat": "13.5503",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "78.41915",
+            "geonameId": 1265157,
+            "toponymName": "Lalitpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 126475,
+            "countryCode": "IN",
+            "name": "Lalitpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "24.69007",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "78.03602",
+            "geonameId": 1265491,
+            "toponymName": "Kurnool",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 460184,
+            "countryCode": "IN",
+            "name": "Kurnool",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Andhra Pradesh",
+            "lat": "15.82887",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "79.39124",
+            "geonameId": 1265683,
+            "toponymName": "Kumbakonam",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 167155,
+            "countryCode": "IN",
+            "name": "Kumbakonam",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "10.96209",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "28",
+            "lng": "88.49073",
+            "geonameId": 1265859,
+            "toponymName": "Krishnanagar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 145926,
+            "countryCode": "IN",
+            "name": "Krishnanagar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "West Bengal",
+            "lat": "23.40576",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "74.85397",
+            "geonameId": 1266486,
+            "toponymName": "Kishangarh",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 131749,
+            "countryCode": "IN",
+            "name": "Kishangarh",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Rajasthan",
+            "lat": "26.59006",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "28",
+            "lng": "87.32501",
+            "geonameId": 1266976,
+            "toponymName": "Kharagpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 219665,
+            "countryCode": "IN",
+            "name": "Kharagpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "West Bengal",
+            "lat": "22.33971",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "35",
+            "lng": "76.35086",
+            "geonameId": 1267031,
+            "toponymName": "Khandwa",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 182841,
+            "countryCode": "IN",
+            "name": "Khandwa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Madhya Pradesh",
+            "lat": "21.82427",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "40",
+            "lng": "80.14368",
+            "geonameId": 1267076,
+            "toponymName": "Khammam",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 170503,
+            "countryCode": "IN",
+            "name": "Khammam",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TG"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Telangana",
+            "lat": "17.24767",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "73.80696",
+            "geonameId": 1259652,
+            "toponymName": "Pimpri",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1284606,
+            "countryCode": "IN",
+            "name": "Pimpri",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "18.62292",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "23",
+            "lng": "75.65287",
+            "geonameId": 1260137,
+            "toponymName": "Pathānkot",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 174306,
+            "countryCode": "IN",
+            "name": "Pathānkot",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "PB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Punjab",
+            "lat": "32.27484",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "76.77081",
+            "geonameId": 1260341,
+            "toponymName": "Parbhani",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 289629,
+            "countryCode": "IN",
+            "name": "Parbhani",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "19.26855",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "73.11013",
+            "geonameId": 1260434,
+            "toponymName": "Panvel",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 128046,
+            "countryCode": "IN",
+            "name": "Panvel",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "18.98878",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "10",
+            "lng": "77.32546",
+            "geonameId": 1260637,
+            "toponymName": "Palwal",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 121965,
+            "countryCode": "IN",
+            "name": "Palwal",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Haryana",
+            "lat": "28.14469",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "76.65366",
+            "geonameId": 1260728,
+            "toponymName": "Pālghāt",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 132728,
+            "countryCode": "IN",
+            "name": "Palakkad",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KL"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Kerala",
+            "lat": "10.77319",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "80.04454",
+            "geonameId": 1261045,
+            "toponymName": "Ongole",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 172872,
+            "countryCode": "IN",
+            "name": "Ongole",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Andhra Pradesh",
+            "lat": "15.50357",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "77.09288",
+            "geonameId": 1261809,
+            "toponymName": "Narela",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 800000,
+            "countryCode": "IN",
+            "name": "Narela",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DL"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Delhi",
+            "lat": "28.85267",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "40",
+            "lng": "79.26707",
+            "geonameId": 1262067,
+            "toponymName": "Nalgonda",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 121826,
+            "countryCode": "IN",
+            "name": "Nalgonda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TG"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Telangana",
+            "lat": "17.05439",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "76.97982",
+            "geonameId": 1262111,
+            "toponymName": "Najafgarh",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 1365000,
+            "countryCode": "IN",
+            "name": "Najafgarh",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DL"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Delhi",
+            "lat": "28.60922",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "35",
+            "lng": "77.99534",
+            "geonameId": 1262771,
+            "toponymName": "Morena",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 152004,
+            "countryCode": "IN",
+            "name": "Morena",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Madhya Pradesh",
+            "lat": "26.49892",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "23",
+            "lng": "75.16878",
+            "geonameId": 1262951,
+            "toponymName": "Moga",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 130549,
+            "countryCode": "IN",
+            "name": "Moga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "PB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Punjab",
+            "lat": "30.81383",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "77.79797",
+            "geonameId": 1255947,
+            "toponymName": "Sivakasi",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 234704,
+            "countryCode": "IN",
+            "name": "Sivakasi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "9.44999",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "92.79787",
+            "geonameId": 1256287,
+            "toponymName": "Silchar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 152393,
+            "countryCode": "IN",
+            "name": "Silchar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AS"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Assam",
+            "lat": "24.82733",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "75.56791",
+            "geonameId": 1256515,
+            "toponymName": "Shimoga",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 319550,
+            "countryCode": "IN",
+            "name": "Shimoga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Karnataka",
+            "lat": "13.93157",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "28",
+            "lng": "88.42851",
+            "geonameId": 1256525,
+            "toponymName": "Siliguri",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 515574,
+            "countryCode": "IN",
+            "name": "Siliguri",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "West Bengal",
+            "lat": "26.71004",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "40",
+            "lng": "78.54263",
+            "geonameId": 1256922,
+            "toponymName": "Secunderabad",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 204182,
+            "countryCode": "IN",
+            "name": "Secunderabad",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TG"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Telangana",
+            "lat": "17.50427",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "83.97573",
+            "geonameId": 1257542,
+            "toponymName": "Sambalpur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 162887,
+            "countryCode": "IN",
+            "name": "Sambalpur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "OR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Odisha",
+            "lat": "21.46527",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "86.59611",
+            "geonameId": 1257804,
+            "toponymName": "Saharsa",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 145764,
+            "countryCode": "IN",
+            "name": "Saharsa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Bihar",
+            "lat": "25.87498",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "39",
+            "lng": "77.89118",
+            "geonameId": 1258044,
+            "toponymName": "Roorkee",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 103894,
+            "countryCode": "IN",
+            "name": "Roorkee",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UT"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttarakhand",
+            "lat": "29.86632",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "10",
+            "lng": "76.58917",
+            "geonameId": 1258076,
+            "toponymName": "Rohtak",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 317245,
+            "countryCode": "IN",
+            "name": "Rohtak",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Haryana",
+            "lat": "28.89447",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "35",
+            "lng": "81.29234",
+            "geonameId": 1258182,
+            "toponymName": "Rewa",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 208461,
+            "countryCode": "IN",
+            "name": "Rewa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Madhya Pradesh",
+            "lat": "24.53256",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "81.77784",
+            "geonameId": 1258932,
+            "toponymName": "Rājahmundry",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 376333,
+            "countryCode": "IN",
+            "name": "Rajahmundry",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "AP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Andhra Pradesh",
+            "lat": "17.00517",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "37",
+            "lng": "83.3966",
+            "geonameId": 1259005,
+            "toponymName": "Raigarh",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 121278,
+            "countryCode": "IN",
+            "name": "Raigarh",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "CT"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Chhattisgarh",
+            "lat": "21.89764",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "87.47422",
+            "geonameId": 1259166,
+            "toponymName": "Purnia",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 198453,
+            "countryCode": "IN",
+            "name": "Purnia",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Bihar",
+            "lat": "25.77895",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "85.82494",
+            "geonameId": 1259184,
+            "toponymName": "Puri",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 170841,
+            "countryCode": "IN",
+            "name": "Puri",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "OR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Odisha",
+            "lat": "19.79825",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "25",
+            "lng": "78.82141",
+            "geonameId": 1259297,
+            "toponymName": "Pudukkottai",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 112118,
+            "countryCode": "IN",
+            "name": "Pudukkottai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "TN"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Tamil Nadu",
+            "lat": "10.38128",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "09",
+            "lng": "69.60929",
+            "geonameId": 1259395,
+            "toponymName": "Porbandar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 138872,
+            "countryCode": "IN",
+            "name": "Porbandar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Gujarat",
+            "lat": "21.64219",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "34",
+            "lng": "84.74709",
+            "geonameId": 1274353,
+            "toponymName": "Chāpra",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 201597,
+            "countryCode": "IN",
+            "name": "Chāpra",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Bihar",
+            "lat": "25.78031",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "16",
+            "lng": "79.29523",
+            "geonameId": 1274693,
+            "toponymName": "Chānda",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 328351,
+            "countryCode": "IN",
+            "name": "Chānda",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MH"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Maharashtra",
+            "lat": "19.95076",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "28",
+            "lng": "88.36796",
+            "geonameId": 1274784,
+            "toponymName": "Chandannagar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 180623,
+            "countryCode": "IN",
+            "name": "Chandannagar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WB"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "West Bengal",
+            "lat": "22.86225",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "13",
+            "lng": "75.35763",
+            "geonameId": 1274987,
+            "toponymName": "Kannur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 62836,
+            "countryCode": "IN",
+            "name": "Cannanore",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KL"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Kerala",
+            "lat": "11.86752",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "77.85773",
+            "geonameId": 1275120,
+            "toponymName": "Bulandshahr",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 198612,
+            "countryCode": "IN",
+            "name": "Bulandshahr",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "28.40392",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "79.12668",
+            "geonameId": 1275163,
+            "toponymName": "Budaun",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 161555,
+            "countryCode": "IN",
+            "name": "Budaun",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "UP"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Uttar Pradesh",
+            "lat": "28.03811",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "21",
+            "lng": "84.7929",
+            "geonameId": 1275198,
+            "toponymName": "Brahmapur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 324726,
+            "countryCode": "IN",
+            "name": "Brahmapur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "OR"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Odisha",
+            "lat": "19.31151",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "24",
+            "lng": "73.31495",
+            "geonameId": 1275665,
+            "toponymName": "Bīkaner",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 576015,
+            "countryCode": "IN",
+            "name": "Bikaner",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Rajasthan",
+            "lat": "28.01762",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "75.71537",
+            "geonameId": 1275701,
+            "toponymName": "Bijapur",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 271064,
+            "countryCode": "IN",
+            "name": "Bijapur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Karnataka",
+            "lat": "16.82442",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "19",
+            "lng": "77.51524",
+            "geonameId": 1275738,
+            "toponymName": "Bīdar",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 204071,
+            "countryCode": "IN",
+            "name": "Bidar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Karnataka",
+            "lat": "17.90802",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "09",
+            "lng": "69.66928",
+            "geonameId": 1275812,
+            "toponymName": "Bhuj",
+            "countryId": "1269750",
+            "fcl": "P",
+            "population": 133459,
+            "countryCode": "IN",
+            "name": "Bhuj",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GJ"
+            },
+            "countryName": "India",
+            "fcodeName": "populated place",
+            "adminName1": "Gujarat",
+            "lat": "23.25397",
+            "fcode": "PPL"
+        }
+    ]

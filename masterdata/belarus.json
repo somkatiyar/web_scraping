@@ -1,0 +1,2002 @@
+[
+        {
+            "adminCode1": "03",
+            "lng": "25.29972",
+            "geonameId": 626081,
+            "toponymName": "Lida",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 102700,
+            "countryCode": "BY",
+            "name": "Lida",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.88333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "28.5987",
+            "geonameId": 624784,
+            "toponymName": "Navapolatsk",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 108000,
+            "countryCode": "BY",
+            "name": "Navapolatsk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.5318",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.138",
+            "geonameId": 628634,
+            "toponymName": "Dzyarzhynsk",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 25164,
+            "countryCode": "BY",
+            "name": "Dzyarzhynsk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.6832",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.8191",
+            "geonameId": 624785,
+            "toponymName": "Novogrudok",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 29441,
+            "countryCode": "BY",
+            "name": "Navahrudak",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.5942",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "26.7434",
+            "geonameId": 621266,
+            "toponymName": "Stowbtsy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 15400,
+            "countryCode": "BY",
+            "name": "Stowbtsy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.4785",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "26.84597",
+            "geonameId": 621277,
+            "toponymName": "Stolin",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 10491,
+            "countryCode": "BY",
+            "name": "Stolin",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "51.89115",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "25.1554",
+            "geonameId": 626829,
+            "toponymName": "Kosava",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2698,
+            "countryCode": "BY",
+            "name": "Kossovo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.7583",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "26.1406",
+            "geonameId": 626939,
+            "toponymName": "Karelichy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 7800,
+            "countryCode": "BY",
+            "name": "Karelichy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.5648",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "23.6",
+            "geonameId": 628968,
+            "toponymName": "Damachava",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1200,
+            "countryCode": "BY",
+            "name": "Damachava",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "51.75",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "26.83263",
+            "geonameId": 623760,
+            "toponymName": "Pastavy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 19800,
+            "countryCode": "BY",
+            "name": "Pastavy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.11676",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.95537",
+            "geonameId": 623941,
+            "toponymName": "Astravyets",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 10878,
+            "countryCode": "BY",
+            "name": "Astravyets",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "54.61378",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.2695",
+            "geonameId": 619066,
+            "toponymName": "Zaslawye",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 13500,
+            "countryCode": "BY",
+            "name": "Zaslawye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.0114",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "30.9179",
+            "geonameId": 629390,
+            "toponymName": "Chachersk",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 7600,
+            "countryCode": "BY",
+            "name": "Chachersk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HO"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Homyel’ Voblasc’",
+            "lat": "52.9164",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.49709",
+            "geonameId": 630166,
+            "toponymName": "Byarozawka",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 11800,
+            "countryCode": "BY",
+            "name": "Berëzovka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.72406",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "28.9879",
+            "geonameId": 630197,
+            "toponymName": "Bierazino",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 12800,
+            "countryCode": "BY",
+            "name": "Byerazino",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.8391",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "25.1784",
+            "geonameId": 630279,
+            "toponymName": "Byelaazyorsk",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 10691,
+            "countryCode": "BY",
+            "name": "Beloozersk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.4731",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "28.0577",
+            "geonameId": 630343,
+            "toponymName": "Byahoml’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 3500,
+            "countryCode": "BY",
+            "name": "Begoml'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "54.7316",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "30.3159",
+            "geonameId": 630431,
+            "toponymName": "Baran’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 11600,
+            "countryCode": "BY",
+            "name": "Baran'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "54.4784",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "24.7863",
+            "geonameId": 630543,
+            "toponymName": "Antopal’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2100,
+            "countryCode": "BY",
+            "name": "Antopol'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.2038",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "23.37083",
+            "geonameId": 619818,
+            "toponymName": "Vysokaye",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 4496,
+            "countryCode": "BY",
+            "name": "Vysokoye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.37091",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "26.5228",
+            "geonameId": 620146,
+            "toponymName": "Vishnyeva",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 7000,
+            "countryCode": "BY",
+            "name": "Vishnevo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "54.7102",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "26.6305",
+            "geonameId": 620191,
+            "toponymName": "Vidzy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2000,
+            "countryCode": "BY",
+            "name": "Vidzy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.3945",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "29.8288",
+            "geonameId": 620425,
+            "toponymName": "Vasilyevichy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 4749,
+            "countryCode": "BY",
+            "name": "Vasilevichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HO"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Homyel’ Voblasc’",
+            "lat": "52.2512",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "28.6158",
+            "geonameId": 620540,
+            "toponymName": "Ushachy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 6071,
+            "countryCode": "BY",
+            "name": "Ushachy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.179",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "27.735",
+            "geonameId": 620676,
+            "toponymName": "Turaw",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 3100,
+            "countryCode": "BY",
+            "name": "Turov",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HO"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Homyel’ Voblasc’",
+            "lat": "52.0683",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "25.8429",
+            "geonameId": 620945,
+            "toponymName": "Tsyelyakhany",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 4700,
+            "countryCode": "BY",
+            "name": "Telekhany",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.5175",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "26.395",
+            "geonameId": 621058,
+            "toponymName": "Svir",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1300,
+            "countryCode": "BY",
+            "name": "Svir'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.8517",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "24.89357",
+            "geonameId": 622500,
+            "toponymName": "Ruzhany",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 3100,
+            "countryCode": "BY",
+            "name": "Ruzhany",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.86322",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "25.9867",
+            "geonameId": 626266,
+            "toponymName": "Lahishyn",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2800,
+            "countryCode": "BY",
+            "name": "Lahishyn",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.339",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "26.2916",
+            "geonameId": 626548,
+            "toponymName": "Kreva",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 3100,
+            "countryCode": "BY",
+            "name": "Krevo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "54.3118",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.42398",
+            "geonameId": 626621,
+            "toponymName": "Krasnosel’skiy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 7300,
+            "countryCode": "BY",
+            "name": "Krasnosel'skiy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.26494",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "27.0094",
+            "geonameId": 626738,
+            "toponymName": "Kazhan-Haradok",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1700,
+            "countryCode": "BY",
+            "name": "Kozhan-Gorodok",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.2073",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "30.9173",
+            "geonameId": 626806,
+            "toponymName": "Kastsyukowka",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 10552,
+            "countryCode": "BY",
+            "name": "Kostyukovka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HO"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Homyel’ Voblasc’",
+            "lat": "52.5387",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.7823",
+            "geonameId": 627083,
+            "toponymName": "Kalodzishchy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 17000,
+            "countryCode": "BY",
+            "name": "Kolodishchi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.944",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "23.81",
+            "geonameId": 627711,
+            "toponymName": "Kamyanyets",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 8425,
+            "countryCode": "BY",
+            "name": "Kamyanyets",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.40013",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.7727",
+            "geonameId": 627793,
+            "toponymName": "Iwye",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 9684,
+            "countryCode": "BY",
+            "name": "Iwye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.9299",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.2958",
+            "geonameId": 627878,
+            "toponymName": "Iĺja",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1800,
+            "countryCode": "BY",
+            "name": "Ilya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.4167",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "26.538",
+            "geonameId": 628182,
+            "toponymName": "Haradzyeya",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 4100,
+            "countryCode": "BY",
+            "name": "Gorodeya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.3121",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "26.0144",
+            "geonameId": 628317,
+            "toponymName": "Hal’shany",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 5000,
+            "countryCode": "BY",
+            "name": "Gol'shany",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "54.2585",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.5773",
+            "geonameId": 628478,
+            "toponymName": "Hyeranyony",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1500,
+            "countryCode": "BY",
+            "name": "Geranony",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "54.1159",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.4068",
+            "geonameId": 628658,
+            "toponymName": "Dyatlovo",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 7700,
+            "countryCode": "BY",
+            "name": "Dzyatlava",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.4631",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "27.4505",
+            "geonameId": 628871,
+            "toponymName": "Druja",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1500,
+            "countryCode": "BY",
+            "name": "Druja",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.7906",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "25.1597",
+            "geonameId": 628884,
+            "toponymName": "Drahichyn",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 13389,
+            "countryCode": "BY",
+            "name": "Drahichyn",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.1874",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "27.2161",
+            "geonameId": 629159,
+            "toponymName": "Davyd-Haradok",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 5919,
+            "countryCode": "BY",
+            "name": "Davyd-Haradok",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.0566",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "28.4313",
+            "geonameId": 629273,
+            "toponymName": "Červień",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 9718,
+            "countryCode": "BY",
+            "name": "Chervyen'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.7059",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "23.74043",
+            "geonameId": 629338,
+            "toponymName": "Charnawchytsy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2372,
+            "countryCode": "BY",
+            "name": "Chernavchitsy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.21948",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.0562",
+            "geonameId": 622849,
+            "toponymName": "Rakaw",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 6300,
+            "countryCode": "BY",
+            "name": "Rakov",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.9674",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.2412",
+            "geonameId": 622877,
+            "toponymName": "Radaškovičy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 5700,
+            "countryCode": "BY",
+            "name": "Radoshkovichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.1554",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.5305",
+            "geonameId": 623904,
+            "toponymName": "Ostryna",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1847,
+            "countryCode": "BY",
+            "name": "Ostryna",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.7322",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "29.15016",
+            "geonameId": 624494,
+            "toponymName": "Novolukoml’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 13072,
+            "countryCode": "BY",
+            "name": "Novolukoml’",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "54.66192",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "27.4609",
+            "geonameId": 624965,
+            "toponymName": "Mosar",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1500,
+            "countryCode": "BY",
+            "name": "Mosar'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.2232",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "26.467",
+            "geonameId": 625128,
+            "toponymName": "Mir",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2500,
+            "countryCode": "BY",
+            "name": "Mir",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.4544",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "27.476",
+            "geonameId": 625228,
+            "toponymName": "Mikashevichy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 14000,
+            "countryCode": "BY",
+            "name": "Mikashevichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.2173",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "28.147",
+            "geonameId": 625409,
+            "toponymName": "Mar’’ina Horka",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 20100,
+            "countryCode": "BY",
+            "name": "Mar''ina Horka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.509",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.5948",
+            "geonameId": 625671,
+            "toponymName": "Machulishchy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 8000,
+            "countryCode": "BY",
+            "name": "Machulishchy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.7788",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "28.699",
+            "geonameId": 625743,
+            "toponymName": "Lyepyel’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 17400,
+            "countryCode": "BY",
+            "name": "Lyepyel'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "54.8814",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.2478",
+            "geonameId": 611866,
+            "toponymName": "Skidel’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 10700,
+            "countryCode": "BY",
+            "name": "Skidel'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.5904",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.3443",
+            "geonameId": 618818,
+            "toponymName": "Zhirovichi",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1800,
+            "countryCode": "BY",
+            "name": "Zhirovichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.0131",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.81338",
+            "geonameId": 618932,
+            "toponymName": "Zel’va",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 7000,
+            "countryCode": "BY",
+            "name": "Zel'va",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.15064",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.33338",
+            "geonameId": 6846555,
+            "toponymName": "Fanipol",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 13200,
+            "countryCode": "BY",
+            "name": "Fanipol",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.74998",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.319",
+            "geonameId": 8019697,
+            "toponymName": "Halowki",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Halowki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.899",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.8184",
+            "geonameId": 8028998,
+            "toponymName": "Zel’vyanka",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Zel’vyanka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.2251",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.5817",
+            "geonameId": 8029016,
+            "toponymName": "Tadino",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Tadino",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.1971",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.6557",
+            "geonameId": 8029021,
+            "toponymName": "Vyeyshychy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Vyeyshychy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.1913",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.9598",
+            "geonameId": 8051551,
+            "toponymName": "Lazduny Druhiya",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Lazduny Druhiya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.9286",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.0709",
+            "geonameId": 8076659,
+            "toponymName": "Svislach",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Svislach",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.4973",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.1521",
+            "geonameId": 8077179,
+            "toponymName": "Mazanovo",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Mazanovo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.5332",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "31.071",
+            "geonameId": 8178450,
+            "toponymName": "Peramoga",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1423,
+            "countryCode": "BY",
+            "name": "Peramoga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HO"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Homyel’ Voblasc’",
+            "lat": "52.3973",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "29.8911",
+            "geonameId": 8216412,
+            "toponymName": "Klyushevo",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Klyushevo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.5783",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "30.7395",
+            "geonameId": 8331254,
+            "toponymName": "Porechnoye",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Porechnoye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.4314",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.1067",
+            "geonameId": 8247399,
+            "toponymName": "Chyst’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 5300,
+            "countryCode": "BY",
+            "name": "Chyst’",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.2698",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.6963",
+            "geonameId": 8247407,
+            "toponymName": "Lyasny",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 15000,
+            "countryCode": "BY",
+            "name": "Lyasny",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.0072",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.5669",
+            "geonameId": 8247409,
+            "toponymName": "Bal’shavik",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 3470,
+            "countryCode": "BY",
+            "name": "Bal’shavik",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.0036",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "27.38456",
+            "geonameId": 8221628,
+            "toponymName": "Paris",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 330,
+            "countryCode": "BY",
+            "name": "Paris",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.15464",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "06",
+            "lng": "30.36",
+            "geonameId": 816218,
+            "toponymName": "Palykavichy Pyershyya",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1572,
+            "countryCode": "BY",
+            "name": "Polyk'vichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MA"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Mogilev",
+            "lat": "53.9854",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "25.3563",
+            "geonameId": 629449,
+            "toponymName": "Byenyakoni",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Byenyakoni",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "54.2495",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "06",
+            "lng": "30.2671",
+            "geonameId": 629471,
+            "toponymName": "Buynichy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 4000,
+            "countryCode": "BY",
+            "name": "Buynichi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MA"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Mogilev",
+            "lat": "53.8536",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "26.6581",
+            "geonameId": 629663,
+            "toponymName": "Turets-Bayary",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1602,
+            "countryCode": "BY",
+            "name": "Turets-Bayary",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.3785",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "26.1376",
+            "geonameId": 629697,
+            "toponymName": "Baruny",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2500,
+            "countryCode": "BY",
+            "name": "Boruny",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "54.3171",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.121",
+            "geonameId": 629831,
+            "toponymName": "Vyaliki Rozhan",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Vyaliki Rozhan",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "52.7668",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "24.9983",
+            "geonameId": 629869,
+            "toponymName": "Vyalikaye Mizhlyessye",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Vyalikaye Mizhlyessye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.3872",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.5832",
+            "geonameId": 629897,
+            "toponymName": "Vyalikiya Stsyapanishki",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Vyalikiya Stsyapanishki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.4379",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "24.522",
+            "geonameId": 629987,
+            "toponymName": "Baloty",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Boloty",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.1361",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "29.2736",
+            "geonameId": 630070,
+            "toponymName": "Bobr",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1100,
+            "countryCode": "BY",
+            "name": "Bobr",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.342",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "29.4617",
+            "geonameId": 630136,
+            "toponymName": "Byeshankovichy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Byeshankovichy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.0444",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "06",
+            "lng": "31.9777",
+            "geonameId": 630325,
+            "toponymName": "Belaya Dubrova",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Belaya Dubrova",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MA"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Mogilev",
+            "lat": "53.24909",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "30.2134",
+            "geonameId": 630602,
+            "toponymName": "Al’hova",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Al’hova",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.2284",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "30.2909",
+            "geonameId": 793279,
+            "toponymName": "Balbasava",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 3600,
+            "countryCode": "BY",
+            "name": "Balbasava",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "54.4207",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "27.8685",
+            "geonameId": 619217,
+            "toponymName": "Zamostochye",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2500,
+            "countryCode": "BY",
+            "name": "Zamostochye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "53.8198",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "26.4516",
+            "geonameId": 619419,
+            "toponymName": "Zabrezzye",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Zabrezzye",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.1882",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "24.7965",
+            "geonameId": 619486,
+            "toponymName": "Zabolot’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Zabolot'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.9258",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "26.2053",
+            "geonameId": 619495,
+            "toponymName": "Zabyeraz’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Zaberezh'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "HR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Grodnenskaya",
+            "lat": "53.9408",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "28.0938",
+            "geonameId": 619523,
+            "toponymName": "Yurove",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Yur'yevo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.1648",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "06",
+            "lng": "29.0048",
+            "geonameId": 619616,
+            "toponymName": "Yalizava",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 2600,
+            "countryCode": "BY",
+            "name": "Yelizovo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MA"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Mogilev",
+            "lat": "53.3994",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "25.9556",
+            "geonameId": 619666,
+            "toponymName": "Yastrembel’",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Yastrembel’",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "53.0383",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "25.4831",
+            "geonameId": 619902,
+            "toponymName": "Vul’ka-Abrowskaya",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Vul'ka-Obrovskaya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.579",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "07",
+            "lng": "28.6443",
+            "geonameId": 619992,
+            "toponymName": "Varonichy",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Voronech'",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Vitebsk",
+            "lat": "55.3267",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "26.789",
+            "geonameId": 620018,
+            "toponymName": "Vyeluta",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Voluta",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BR"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Brest",
+            "lat": "52.4597",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "06",
+            "lng": "29.9925",
+            "geonameId": 620141,
+            "toponymName": "Vishow",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 1224,
+            "countryCode": "BY",
+            "name": "Vishow",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MA"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Mogilev",
+            "lat": "53.9805",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "26.2042",
+            "geonameId": 620147,
+            "toponymName": "Vishnyovo",
+            "countryId": "630336",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "BY",
+            "name": "Vishnevo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "MI"
+            },
+            "countryName": "Belarus",
+            "fcodeName": "populated place",
+            "adminName1": "Minsk",
+            "lat": "54.139",
+            "fcode": "PPL"
+        }
+    ]

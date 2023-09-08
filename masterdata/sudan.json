@@ -1,0 +1,2002 @@
+ [
+        {
+            "adminCode1": "29",
+            "lng": "32.47773",
+            "geonameId": 365137,
+            "toponymName": "Omdurman",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 1200000,
+            "countryCode": "SD",
+            "name": "Omdurman",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KH"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Khartoum",
+            "lat": "15.64453",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.66347",
+            "geonameId": 371760,
+            "toponymName": "Kosti",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 345068,
+            "countryCode": "SD",
+            "name": "Kūstī",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "13.1629",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "53",
+            "lng": "33.98638",
+            "geonameId": 378231,
+            "toponymName": "Atbara",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 107930,
+            "countryCode": "SD",
+            "name": "Atbara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NR"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "River Nile",
+            "lat": "17.70217",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "49",
+            "lng": "25.14026",
+            "geonameId": 8504621,
+            "toponymName": "Gereida",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 120000,
+            "countryCode": "SD",
+            "name": "Gereida",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Darfur",
+            "lat": "11.27543",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "58",
+            "lng": "33.56718",
+            "geonameId": 367644,
+            "toponymName": "Sinnar",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 130122,
+            "countryCode": "SD",
+            "name": "Sennar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "SI"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Sinnār",
+            "lat": "13.56907",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "28.43333",
+            "geonameId": 378699,
+            "toponymName": "An Nuhūd",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 108008,
+            "countryCode": "SD",
+            "name": "An Nuhūd",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "12.7",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "32.9891",
+            "geonameId": 379149,
+            "toponymName": "Al Manāqil",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 128297,
+            "countryCode": "SD",
+            "name": "Al Manāqil",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.2459",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.3116",
+            "geonameId": 380129,
+            "toponymName": "Ad Douiem",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 87068,
+            "countryCode": "SD",
+            "name": "Ad Douiem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "14.0012",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "53",
+            "lng": "33.4341",
+            "geonameId": 367308,
+            "toponymName": "Shendi",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 53568,
+            "countryCode": "SD",
+            "name": "Shendi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NR"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "River Nile",
+            "lat": "16.6915",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "31.2158",
+            "geonameId": 364706,
+            "toponymName": "Umm Ruwaba",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 55742,
+            "countryCode": "SD",
+            "name": "Umm Ruwaba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "12.9061",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "50",
+            "lng": "29.65",
+            "geonameId": 376450,
+            "toponymName": "Dilling",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 37113,
+            "countryCode": "SD",
+            "name": "Dilling",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Kordofan",
+            "lat": "12.05",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "53",
+            "lng": "33.98299",
+            "geonameId": 377690,
+            "toponymName": "Berber",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 22395,
+            "countryCode": "SD",
+            "name": "Berber",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NR"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "River Nile",
+            "lat": "18.02158",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "58",
+            "lng": "33.88333",
+            "geonameId": 378271,
+            "toponymName": "As Sūkī",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 33524,
+            "countryCode": "SD",
+            "name": "As Sūkī",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "SI"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Sinnār",
+            "lat": "13.31667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "42",
+            "lng": "34.3869",
+            "geonameId": 378459,
+            "toponymName": "Ar Ruseris",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 28862,
+            "countryCode": "SD",
+            "name": "Ar Ruseris",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NB"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Blue Nile",
+            "lat": "11.8659",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "30.65",
+            "geonameId": 378493,
+            "toponymName": "Ar Rahad",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 26273,
+            "countryCode": "SD",
+            "name": "Ar Rahad",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "12.71667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "52",
+            "lng": "36.13333",
+            "geonameId": 378502,
+            "toponymName": "Aroma",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 12708,
+            "countryCode": "SD",
+            "name": "Aroma",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Kassala",
+            "lat": "15.81667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "37.3321",
+            "geonameId": 367544,
+            "toponymName": "Sawākin",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 28570,
+            "countryCode": "SD",
+            "name": "Sawākin",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "19.1059",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "31.81126",
+            "geonameId": 370481,
+            "toponymName": "Merowe",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 10234,
+            "countryCode": "SD",
+            "name": "Merowe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "18.47036",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "42",
+            "lng": "34.28333",
+            "geonameId": 371827,
+            "toponymName": "Kurmuk",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 10375,
+            "countryCode": "SD",
+            "name": "Kurmuk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NB"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Blue Nile",
+            "lat": "10.52",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "31.85",
+            "geonameId": 371870,
+            "toponymName": "Kuraymah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 19593,
+            "countryCode": "SD",
+            "name": "Kuraymah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "18.55",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "58",
+            "lng": "33.1712",
+            "geonameId": 372386,
+            "toponymName": "Kināna",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 26233,
+            "countryCode": "SD",
+            "name": "Kināna",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "SI"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Sinnār",
+            "lat": "14.0361",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "31.37129",
+            "geonameId": 364132,
+            "toponymName": "Wadi Halfa",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Wadi Halfa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "21.79577",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "55",
+            "lng": "26.68759",
+            "geonameId": 364933,
+            "toponymName": "Umm Kaddadah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 10979,
+            "countryCode": "SD",
+            "name": "Umm Kaddadah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Darfur",
+            "lat": "13.60169",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "37.729",
+            "geonameId": 366323,
+            "toponymName": "Tokār",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 22250,
+            "countryCode": "SD",
+            "name": "Tokār",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "18.4254",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "31.86667",
+            "geonameId": 366426,
+            "toponymName": "Tandaltī",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 27275,
+            "countryCode": "SD",
+            "name": "Tandaltī",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "13.01667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "50",
+            "lng": "30.3797",
+            "geonameId": 366487,
+            "toponymName": "Talodi",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 13188,
+            "countryCode": "SD",
+            "name": "Talodi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Kordofan",
+            "lat": "10.63246",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.3668",
+            "geonameId": 379014,
+            "toponymName": "Al Qiţena",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 18321,
+            "countryCode": "SD",
+            "name": "Al Qiţena",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "14.8648",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "27.73333",
+            "geonameId": 379102,
+            "toponymName": "Al Mijlad",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 19997,
+            "countryCode": "SD",
+            "name": "Al Mijlad",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "11.03333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "53",
+            "lng": "33.3565",
+            "geonameId": 379127,
+            "toponymName": "El Matama",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 11366,
+            "countryCode": "SD",
+            "name": "El Matama",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NR"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "River Nile",
+            "lat": "16.7095",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.4996",
+            "geonameId": 379272,
+            "toponymName": "Al Kawa",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 10167,
+            "countryCode": "SD",
+            "name": "Al Kawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "13.7463",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "33.234",
+            "geonameId": 379406,
+            "toponymName": "Al Hilāliyya",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 17345,
+            "countryCode": "SD",
+            "name": "Al Hilāliyya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.9398",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "33.29836",
+            "geonameId": 379427,
+            "toponymName": "Al Hasaheisa",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 28735,
+            "countryCode": "SD",
+            "name": "Al Hasaheisa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.75264",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "50",
+            "lng": "28.35786",
+            "geonameId": 379535,
+            "toponymName": "Al Fūlah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 11238,
+            "countryCode": "SD",
+            "name": "Al Fūlah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Kordofan",
+            "lat": "11.73292",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "30.95",
+            "geonameId": 380186,
+            "toponymName": "Ad Dabbah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 11626,
+            "countryCode": "SD",
+            "name": "Ad Dabbah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "18.05",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "28.43493",
+            "geonameId": 380308,
+            "toponymName": "Abyei",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Abyei",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "9.59525",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "50",
+            "lng": "31.2285",
+            "geonameId": 380757,
+            "toponymName": "Abu Jibeha",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 21790,
+            "countryCode": "SD",
+            "name": "Abu Jibeha",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Southern Kordofan",
+            "lat": "11.4562",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "30.41667",
+            "geonameId": 372801,
+            "toponymName": "Karmah an Nuzul",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 3928,
+            "countryCode": "SD",
+            "name": "Karmah an Nuzul",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "19.63333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "52",
+            "lng": "35.59854",
+            "geonameId": 374272,
+            "toponymName": "New Halfa",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "New Halfa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Kassala",
+            "lat": "15.33021",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "58",
+            "lng": "33.66667",
+            "geonameId": 370838,
+            "toponymName": "Maiurno",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 28727,
+            "countryCode": "SD",
+            "name": "Maiurno",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "SI"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Sinnār",
+            "lat": "13.41667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "55",
+            "lng": "24.66667",
+            "geonameId": 371745,
+            "toponymName": "Kutum",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 9849,
+            "countryCode": "SD",
+            "name": "Kutum",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Darfur",
+            "lat": "14.2",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "39",
+            "lng": "35.91667",
+            "geonameId": 372527,
+            "toponymName": "Khashm al Qirbah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Khashm al Qirbah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GD"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Qaḑārif",
+            "lat": "14.96667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "33.13972",
+            "geonameId": 364071,
+            "toponymName": "Wad Rāwah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 10348,
+            "countryCode": "SD",
+            "name": "Wad Rāwah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "15.16028",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "33.3373",
+            "geonameId": 379080,
+            "toponymName": "Al Masallamiyya",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 9373,
+            "countryCode": "SD",
+            "name": "Al Masallamiyya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.5748",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "29.13333",
+            "geonameId": 379198,
+            "toponymName": "Al Lagowa",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 11024,
+            "countryCode": "SD",
+            "name": "Al Lagowa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "11.4",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "32.9437",
+            "geonameId": 379261,
+            "toponymName": "Al Kiremit al ‘Arakiyyīn",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 9775,
+            "countryCode": "SD",
+            "name": "Al Kiremit al ‘Arakiyyīn",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.3476",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "39",
+            "lng": "34.63333",
+            "geonameId": 379416,
+            "toponymName": "Al Ḩawātah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 24513,
+            "countryCode": "SD",
+            "name": "Al Ḩawātah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GD"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Qaḑārif",
+            "lat": "13.41667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "29",
+            "lng": "32.60333",
+            "geonameId": 373236,
+            "toponymName": "Aj Jiroif Sharg",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Aj Jiroif Sharg",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KH"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Khartoum",
+            "lat": "15.58194",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "42",
+            "lng": "33.8057",
+            "geonameId": 373458,
+            "toponymName": "Gubartullah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Gubartullah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NB"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Blue Nile",
+            "lat": "10.33882",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "28.68333",
+            "geonameId": 373475,
+            "toponymName": "‘Iyāl Bakhīt",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "‘Iyāl Bakhīt",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "13.41667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.76667",
+            "geonameId": 373835,
+            "toponymName": "Ḩillat ‘Abbās",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Ḩillat ‘Abbās",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "13.13333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "36.3856",
+            "geonameId": 373898,
+            "toponymName": "Haya",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Haya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "18.3353",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "31.11667",
+            "geonameId": 374471,
+            "toponymName": "Habīlah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Habīlah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "13.7",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "36.31667",
+            "geonameId": 375046,
+            "toponymName": "Gebeit",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 11095,
+            "countryCode": "SD",
+            "name": "Gebeit",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "21.06667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "33.4353",
+            "geonameId": 375721,
+            "toponymName": "Fadāsi al Ḩilemab",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Fadāsi al Ḩilemab",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.5604",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "37.1171",
+            "geonameId": 376114,
+            "toponymName": "Dungunāb",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Dungunāb",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "21.1076",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "30.75",
+            "geonameId": 376115,
+            "toponymName": "Dunqulah al Qadīmah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Dunqulah al Qadīmah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "18.21667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "30.56139",
+            "geonameId": 376817,
+            "toponymName": "Dalqū",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Dalqū",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "20.12278",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "36.96667",
+            "geonameId": 376984,
+            "toponymName": "Carthago",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Carthago",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "18.78333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "61",
+            "lng": "23.24279",
+            "geonameId": 377060,
+            "toponymName": "Buronga",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Buronga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DC"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Central Darfur",
+            "lat": "11.96411",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "58",
+            "lng": "34.1615",
+            "geonameId": 377120,
+            "toponymName": "Banzaqa",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Banzaqa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "SI"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Sinnār",
+            "lat": "12.5033",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "47",
+            "lng": "23.45",
+            "geonameId": 377336,
+            "toponymName": "Birkat Saira",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Birkat Saira",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Western Darfur",
+            "lat": "13.56667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "42",
+            "lng": "34.06667",
+            "geonameId": 377561,
+            "toponymName": "Bāw",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Bāw",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NB"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Blue Nile",
+            "lat": "11.33333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "33.53333",
+            "geonameId": 377712,
+            "toponymName": "Barakāt",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Barakāt",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.31667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "27.8",
+            "geonameId": 377962,
+            "toponymName": "Babanūsah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Babanūsah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "11.33333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "38",
+            "lng": "33.91667",
+            "geonameId": 378042,
+            "toponymName": "‘Ayn al Luwayqah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "‘Ayn al Luwayqah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GZ"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Jazīrah",
+            "lat": "14.16667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "30.78333",
+            "geonameId": 378168,
+            "toponymName": "Aţ Ţayyārah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Aţ Ţayyārah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "13.2",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "60",
+            "lng": "27.5765",
+            "geonameId": 378265,
+            "toponymName": "Es Sumeih",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Es Sumeih",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DE"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern Darfur",
+            "lat": "9.87134",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "53",
+            "lng": "33.56667",
+            "geonameId": 378353,
+            "toponymName": "Ash Shurayk",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Ash Shurayk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NR"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "River Nile",
+            "lat": "18.8",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "29",
+            "lng": "32.4939",
+            "geonameId": 378393,
+            "toponymName": "Ash Shajara",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Ash Shajara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KH"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Khartoum",
+            "lat": "15.5373",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "61",
+            "lng": "23.28333",
+            "geonameId": 378426,
+            "toponymName": "Arwala",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Arwala",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DC"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Central Darfur",
+            "lat": "12.38333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "30.41667",
+            "geonameId": 378543,
+            "toponymName": "Argo",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 7716,
+            "countryCode": "SD",
+            "name": "Argo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "19.51667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "38.1927",
+            "geonameId": 378648,
+            "toponymName": "Hillat ‘Agig",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Hillat ‘Agig",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "18.2278",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "36",
+            "lng": "36.8351",
+            "geonameId": 366846,
+            "toponymName": "Sinkat",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Sinkat",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "RS"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Red Sea",
+            "lat": "18.8405",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "39",
+            "lng": "35.87062",
+            "geonameId": 366941,
+            "toponymName": "Shuwak",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Shuwak",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GD"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Qaḑārif",
+            "lat": "14.39594",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.4689",
+            "geonameId": 367147,
+            "toponymName": "Al Kireida",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Al Kireida",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "13.7392",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "31.4109",
+            "geonameId": 367239,
+            "toponymName": "Shurkela",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Shurkela",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "12.7966",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "31.01667",
+            "geonameId": 367456,
+            "toponymName": "Semna East",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Semna East",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "21.46667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "31.1",
+            "geonameId": 367597,
+            "toponymName": "Saras East",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Saras East",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "21.56667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "42",
+            "lng": "34.66667",
+            "geonameId": 368402,
+            "toponymName": "Qaysān",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Qaysān",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NB"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Blue Nile",
+            "lat": "11.06667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "42",
+            "lng": "34.8",
+            "geonameId": 368403,
+            "toponymName": "Qaysān",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Qaysān",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NB"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Blue Nile",
+            "lat": "10.75",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "39",
+            "lng": "36.15",
+            "geonameId": 368469,
+            "toponymName": "Qallābāt",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Qallābāt",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GD"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Qaḑārif",
+            "lat": "12.96667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "31.9",
+            "geonameId": 369057,
+            "toponymName": "Nūrī",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Nūrī",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "18.55",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "29.03333",
+            "geonameId": 369183,
+            "toponymName": "Niblat al Hajjānah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Niblat al Hajjānah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "13.21667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.18333",
+            "geonameId": 370510,
+            "toponymName": "Marabba",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 12108,
+            "countryCode": "SD",
+            "name": "Marabba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "12.35",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "28.03333",
+            "geonameId": 371533,
+            "toponymName": "Laqīyat al Arba‘īn",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Laqīyat al Arba‘īn",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "20.05",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "31.55",
+            "geonameId": 371795,
+            "toponymName": "Kūrtī",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Kūrtī",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "18.11667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "30.66667",
+            "geonameId": 371974,
+            "toponymName": "Kulb East",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Kulb East",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "21.05",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "55",
+            "lng": "23.96667",
+            "geonameId": 372319,
+            "toponymName": "Kobbei",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Kobbei",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Darfur",
+            "lat": "14.06667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "43",
+            "lng": "30.35",
+            "geonameId": 363880,
+            "toponymName": "Wawa",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Wawa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NO"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern State",
+            "lat": "20.43333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "52",
+            "lng": "36.2032",
+            "geonameId": 364027,
+            "toponymName": "Wagar",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 11950,
+            "countryCode": "SD",
+            "name": "Wagar",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KA"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Kassala",
+            "lat": "16.1525",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "53",
+            "lng": "32.80667",
+            "geonameId": 364147,
+            "toponymName": "Wad Ḩāmid",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Wad Ḩāmid",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NR"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "River Nile",
+            "lat": "16.49056",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "62",
+            "lng": "27.95",
+            "geonameId": 364203,
+            "toponymName": "Wad Bandah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Wad Bandah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GK"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "West Kordofan State",
+            "lat": "13.1",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "39",
+            "lng": "36.03598",
+            "geonameId": 364283,
+            "toponymName": "Wad al Ḩulaywah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Wad al Ḩulaywah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "GD"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Al Qaḑārif",
+            "lat": "14.22472",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "55",
+            "lng": "27.23333",
+            "geonameId": 364628,
+            "toponymName": "Umm Shanqah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Umm Shanqah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Darfur",
+            "lat": "13.23333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "31.16667",
+            "geonameId": 364660,
+            "toponymName": "Umm Sayyālah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Umm Sayyālah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "14.41667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "31.36667",
+            "geonameId": 364798,
+            "toponymName": "Umm Qantur",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Umm Qantur",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "14.28333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "55",
+            "lng": "27.25",
+            "geonameId": 364801,
+            "toponymName": "Umm Qafalah",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Umm Qafalah",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "DN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "Northern Darfur",
+            "lat": "13.36667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "41",
+            "lng": "32.4078",
+            "geonameId": 364949,
+            "toponymName": "Um Jar Al Gharbiyya",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 9038,
+            "countryCode": "SD",
+            "name": "Um Jar Al Gharbiyya",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "NW"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "White Nile",
+            "lat": "13.8013",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "30.98333",
+            "geonameId": 365207,
+            "toponymName": "Umm Dam",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Umm Dam",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "13.75",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "56",
+            "lng": "30.38333",
+            "geonameId": 365215,
+            "toponymName": "Umm Dabbī",
+            "countryId": "366755",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "SD",
+            "name": "Umm Dabbī",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "KN"
+            },
+            "countryName": "Sudan",
+            "fcodeName": "populated place",
+            "adminName1": "North Kordofan",
+            "lat": "14.61667",
+            "fcode": "PPL"
+        }
+    ]

@@ -1,0 +1,2002 @@
+ [
+        {
+            "adminCode1": "WAL",
+            "lng": "4.44448",
+            "geonameId": 2800481,
+            "toponymName": "Charleroi",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 200132,
+            "countryCode": "BE",
+            "name": "Charleroi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.41136",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.37737",
+            "geonameId": 2787149,
+            "toponymName": "Schaerbeek",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 132761,
+            "countryCode": "BE",
+            "name": "Schaarbeek",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.86935",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.40026",
+            "geonameId": 2803138,
+            "toponymName": "Antwerpen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 529247,
+            "countryCode": "BE",
+            "name": "Antwerp",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.22047",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.56749",
+            "geonameId": 2792413,
+            "toponymName": "Liège",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 195278,
+            "countryCode": "BE",
+            "name": "Liège",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.63373",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "3.95229",
+            "geonameId": 2790869,
+            "toponymName": "Mons",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 95299,
+            "countryCode": "BE",
+            "name": "Mons",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.45413",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.31248",
+            "geonameId": 2791018,
+            "toponymName": "Molenbeek-Saint-Jean",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 97037,
+            "countryCode": "BE",
+            "name": "Molenbeek-Saint-Jean",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.8499",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.47762",
+            "geonameId": 2791537,
+            "toponymName": "Mechelen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 77530,
+            "countryCode": "BE",
+            "name": "Mechelen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.02574",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.70093",
+            "geonameId": 2792482,
+            "toponymName": "Leuven",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 101032,
+            "countryCode": "BE",
+            "name": "Leuven",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.87959",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.18785",
+            "geonameId": 2793508,
+            "toponymName": "La Louvière",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 76668,
+            "countryCode": "BE",
+            "name": "La Louvière",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.48657",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.26487",
+            "geonameId": 2794055,
+            "toponymName": "Kortrijk",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 73879,
+            "countryCode": "BE",
+            "name": "Kortrijk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.82803",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.36667",
+            "geonameId": 2795011,
+            "toponymName": "Ixelles",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 86671,
+            "countryCode": "BE",
+            "name": "Ixelles-Elsene",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.83333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.33781",
+            "geonameId": 2796491,
+            "toponymName": "Hasselt",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 77651,
+            "countryCode": "BE",
+            "name": "Hasselt",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.93106",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.71667",
+            "geonameId": 2797656,
+            "toponymName": "Gent",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 265086,
+            "countryCode": "BE",
+            "name": "Ghent",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.05",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.33943",
+            "geonameId": 2785123,
+            "toponymName": "Uccle",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 82929,
+            "countryCode": "BE",
+            "name": "Uccle",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.80225",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.22424",
+            "geonameId": 2800931,
+            "toponymName": "Brugge",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 118509,
+            "countryCode": "BE",
+            "name": "Bruges",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.20892",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.11662",
+            "geonameId": 2791067,
+            "toponymName": "Mol",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 32659,
+            "countryCode": "BE",
+            "name": "Mol",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.19188",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.12245",
+            "geonameId": 2791343,
+            "toponymName": "Menen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 31916,
+            "countryCode": "BE",
+            "name": "Menen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.79722",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.78379",
+            "geonameId": 2791964,
+            "toponymName": "Maaseik",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 25201,
+            "countryCode": "BE",
+            "name": "Maaseik",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.09802",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.31349",
+            "geonameId": 2792179,
+            "toponymName": "Lommel",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 31993,
+            "countryCode": "BE",
+            "name": "Lommel",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.23074",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.33419",
+            "geonameId": 2794914,
+            "toponymName": "Jette",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 52490,
+            "countryCode": "BE",
+            "name": "Jette",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.87309",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.62346",
+            "geonameId": 2795930,
+            "toponymName": "Herstal",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 36503,
+            "countryCode": "BE",
+            "name": "Herstal",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.66415",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.50082",
+            "geonameId": 2797670,
+            "toponymName": "Genk",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 63666,
+            "countryCode": "BE",
+            "name": "Genk",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.965",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.98917",
+            "geonameId": 2797779,
+            "toponymName": "Geel",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 34697,
+            "countryCode": "BE",
+            "name": "Geel",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.16557",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.32775",
+            "geonameId": 2798139,
+            "toponymName": "Forest",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 56254,
+            "countryCode": "BE",
+            "name": "Forest",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.81678",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.39905",
+            "geonameId": 2798554,
+            "toponymName": "Evere",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 41667,
+            "countryCode": "BE",
+            "name": "Evere",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.87441",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.38835",
+            "geonameId": 2798578,
+            "toponymName": "Etterbeek",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 48344,
+            "countryCode": "BE",
+            "name": "Etterbeek",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.83272",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.86241",
+            "geonameId": 2784821,
+            "toponymName": "Verviers",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 52824,
+            "countryCode": "BE",
+            "name": "Verviers",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.58907",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.46484",
+            "geonameId": 2785389,
+            "toponymName": "Tongeren",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 29816,
+            "countryCode": "BE",
+            "name": "Tongeren",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.78054",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.18647",
+            "geonameId": 2786545,
+            "toponymName": "Sint-Truiden",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 37859,
+            "countryCode": "BE",
+            "name": "Sint-Truiden",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.81679",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.50115",
+            "geonameId": 2786824,
+            "toponymName": "Seraing",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 60737,
+            "countryCode": "BE",
+            "name": "Seraing",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.58362",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.37282",
+            "geonameId": 2787387,
+            "toponymName": "Saint-Josse-ten-Noode",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 27366,
+            "countryCode": "BE",
+            "name": "Saint-Josse-ten-Noode",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.8538",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.34389",
+            "geonameId": 2787413,
+            "toponymName": "Saint-Gilles",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 50221,
+            "countryCode": "BE",
+            "name": "Saint-Gilles",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.82763",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.12269",
+            "geonameId": 2787889,
+            "toponymName": "Roeselare",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 56016,
+            "countryCode": "BE",
+            "name": "Roeselare",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.94653",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.42912",
+            "geonameId": 2783476,
+            "toponymName": "Woluwe-Saint-Lambert",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 56584,
+            "countryCode": "BE",
+            "name": "Woluwe-Saint-Lambert",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.84389",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.41436",
+            "geonameId": 2783979,
+            "toponymName": "Watermael-Boitsfort",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 25157,
+            "countryCode": "BE",
+            "name": "Watermael-Boitsfort",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.80154",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.3991",
+            "geonameId": 2783985,
+            "toponymName": "Waterloo",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 29778,
+            "countryCode": "BE",
+            "name": "Waterloo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.71469",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.42756",
+            "geonameId": 2784068,
+            "toponymName": "Waregem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 35896,
+            "countryCode": "BE",
+            "name": "Waregem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.88898",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.5184",
+            "geonameId": 2801924,
+            "toponymName": "Bilzen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 29622,
+            "countryCode": "BE",
+            "name": "Bilzen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.87325",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.25633",
+            "geonameId": 2802031,
+            "toponymName": "Beveren",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 45179,
+            "countryCode": "BE",
+            "name": "Beveren",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.21187",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.22606",
+            "geonameId": 2802170,
+            "toponymName": "Beringen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 40930,
+            "countryCode": "BE",
+            "name": "Beringen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.04954",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.43333",
+            "geonameId": 2802960,
+            "toponymName": "Auderghem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 33984,
+            "countryCode": "BE",
+            "name": "Auderghem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.81667",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "3.77801",
+            "geonameId": 2803010,
+            "toponymName": "Ath",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 26681,
+            "countryCode": "BE",
+            "name": "Ath",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.62937",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.81667",
+            "geonameId": 2803073,
+            "toponymName": "Arlon",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 26179,
+            "countryCode": "BE",
+            "name": "Arlon",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "49.68333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.0355",
+            "geonameId": 2803448,
+            "toponymName": "Aalst",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 77534,
+            "countryCode": "BE",
+            "name": "Aalst",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.93604",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.32848",
+            "geonameId": 2790101,
+            "toponymName": "Nivelles",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 24149,
+            "countryCode": "BE",
+            "name": "Nivelles",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.59833",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.02657",
+            "geonameId": 2790114,
+            "toponymName": "Ninove",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 34795,
+            "countryCode": "BE",
+            "name": "Ninove",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.82776",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "2.75135",
+            "geonameId": 2790150,
+            "toponymName": "Nieuwpoort",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 10845,
+            "countryCode": "BE",
+            "name": "Nieuwpoort",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.13008",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "2.82077",
+            "geonameId": 2791194,
+            "toponymName": "Middelkerke",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 17789,
+            "countryCode": "BE",
+            "name": "Middelkerke",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.18532",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.66232",
+            "geonameId": 2791261,
+            "toponymName": "Mettet",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 12014,
+            "countryCode": "BE",
+            "name": "Mettet",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.32119",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "6.02794",
+            "geonameId": 2791834,
+            "toponymName": "Malmédy",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 12654,
+            "countryCode": "BE",
+            "name": "Malmedy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.42686",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.69452",
+            "geonameId": 2791961,
+            "toponymName": "Maasmechelen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 36251,
+            "countryCode": "BE",
+            "name": "Maasmechelen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.96545",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.99339",
+            "geonameId": 2792196,
+            "toponymName": "Lokeren",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 41438,
+            "countryCode": "BE",
+            "name": "Lokeren",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.10364",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.57041",
+            "geonameId": 2792397,
+            "toponymName": "Lier",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 33272,
+            "countryCode": "BE",
+            "name": "Lier",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.13128",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "2.63772",
+            "geonameId": 2794166,
+            "toponymName": "Koksijde",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 21957,
+            "countryCode": "BE",
+            "name": "Koksijde",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.11642",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.33136",
+            "geonameId": 2794190,
+            "toponymName": "Koekelberg",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 21984,
+            "countryCode": "BE",
+            "name": "Koekelberg",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.86117",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.26667",
+            "geonameId": 2794210,
+            "toponymName": "Knokke-Heist",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 33781,
+            "countryCode": "BE",
+            "name": "Knokke-Heist",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.35",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.43539",
+            "geonameId": 2794730,
+            "toponymName": "Kapellen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 26410,
+            "countryCode": "BE",
+            "name": "Kapellen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.31377",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.86914",
+            "geonameId": 2794895,
+            "toponymName": "Jodoigne",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 11930,
+            "countryCode": "BE",
+            "name": "Jodoigne",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.72357",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.21378",
+            "geonameId": 2795009,
+            "toponymName": "Izegem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 26382,
+            "countryCode": "BE",
+            "name": "Izegem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.91396",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.23284",
+            "geonameId": 2795113,
+            "toponymName": "Huy",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 19973,
+            "countryCode": "BE",
+            "name": "Huy",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.51894",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.83248",
+            "geonameId": 2796009,
+            "toponymName": "Herentals",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 25912,
+            "countryCode": "BE",
+            "name": "Herentals",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.17655",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.30935",
+            "geonameId": 2796542,
+            "toponymName": "Harelbeke",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 25978,
+            "countryCode": "BE",
+            "name": "Harelbeke",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.85343",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.23454",
+            "geonameId": 2796696,
+            "toponymName": "Halle",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 34479,
+            "countryCode": "BE",
+            "name": "Halle",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.73385",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "2.96387",
+            "geonameId": 2797517,
+            "toponymName": "Gistel",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 11084,
+            "countryCode": "BE",
+            "name": "Gistel",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.15612",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.88223",
+            "geonameId": 2797638,
+            "toponymName": "Geraardsbergen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 30807,
+            "countryCode": "BE",
+            "name": "Geraardsbergen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.77343",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.69889",
+            "geonameId": 2797713,
+            "toponymName": "Gembloux",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 21676,
+            "countryCode": "BE",
+            "name": "Gembloux",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.56149",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "BRU",
+            "lng": "4.31531",
+            "geonameId": 2797844,
+            "toponymName": "Ganshoren",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 24859,
+            "countryCode": "BE",
+            "name": "Ganshoren",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "BRU"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Brussels Capital",
+            "lat": "50.87065",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.70976",
+            "geonameId": 2798551,
+            "toponymName": "Evergem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 31615,
+            "countryCode": "BE",
+            "name": "Evergem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.11306",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "6.03647",
+            "geonameId": 2798573,
+            "toponymName": "Eupen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 18029,
+            "countryCode": "BE",
+            "name": "Eupen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.6279",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.91166",
+            "geonameId": 2799357,
+            "toponymName": "Dinant",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 12875,
+            "countryCode": "BE",
+            "name": "Dinant",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.25807",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.25972",
+            "geonameId": 2799365,
+            "toponymName": "Dilbeek",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 39482,
+            "countryCode": "BE",
+            "name": "Dilbeek",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.84799",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.46595",
+            "geonameId": 2799478,
+            "toponymName": "Deurne",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 78747,
+            "countryCode": "BE",
+            "name": "Deurne",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.22134",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.53096",
+            "geonameId": 2799746,
+            "toponymName": "Deinze",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 29815,
+            "countryCode": "BE",
+            "name": "Deinze",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.98175",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.28144",
+            "geonameId": 2799885,
+            "toponymName": "Damme",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 10924,
+            "countryCode": "BE",
+            "name": "Damme",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.25147",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.49495",
+            "geonameId": 2800025,
+            "toponymName": "Couvin",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 13518,
+            "countryCode": "BE",
+            "name": "Couvin",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.05284",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.3747",
+            "geonameId": 2800063,
+            "toponymName": "Courcelles",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 29473,
+            "countryCode": "BE",
+            "name": "Courcelles",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.46379",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.42938",
+            "geonameId": 2784604,
+            "toponymName": "Vilvoorde",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 36955,
+            "countryCode": "BE",
+            "name": "Vilvoorde",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.92814",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.10085",
+            "geonameId": 2785364,
+            "toponymName": "Torhout",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 18933,
+            "countryCode": "BE",
+            "name": "Torhout",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.0656",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.9378",
+            "geonameId": 2785470,
+            "toponymName": "Tienen",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 31743,
+            "countryCode": "BE",
+            "name": "Tienen",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.80745",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.81245",
+            "geonameId": 2785593,
+            "toponymName": "Theux",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 11587,
+            "countryCode": "BE",
+            "name": "Theux",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.53323",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.08856",
+            "geonameId": 2785612,
+            "toponymName": "Tessenderlo",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 16574,
+            "countryCode": "BE",
+            "name": "Tessenderlo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.06513",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.51418",
+            "geonameId": 2785622,
+            "toponymName": "Tervuren",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 20623,
+            "countryCode": "BE",
+            "name": "Tervuren",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.82372",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.21372",
+            "geonameId": 2785778,
+            "toponymName": "Temse",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 26054,
+            "countryCode": "BE",
+            "name": "Temse",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.12794",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.86674",
+            "geonameId": 2786318,
+            "toponymName": "Spa",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 10756,
+            "countryCode": "BE",
+            "name": "Spa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.48375",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.24355",
+            "geonameId": 2786559,
+            "toponymName": "Sint-Pieters-Leeuw",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 30446,
+            "countryCode": "BE",
+            "name": "Sint-Pieters-Leeuw",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.77926",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.50268",
+            "geonameId": 2786963,
+            "toponymName": "Schoten",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 33622,
+            "countryCode": "BE",
+            "name": "Schoten",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.25251",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.6005",
+            "geonameId": 2787769,
+            "toponymName": "Ronse",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 24204,
+            "countryCode": "BE",
+            "name": "Ronse",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.74574",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.41557",
+            "geonameId": 2789403,
+            "toponymName": "Overpelt",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 13344,
+            "countryCode": "BE",
+            "name": "Overpelt",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.21038",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.23128",
+            "geonameId": 2789751,
+            "toponymName": "Oostkamp",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 21489,
+            "countryCode": "BE",
+            "name": "Oostkamp",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.15432",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.33848",
+            "geonameId": 2783089,
+            "toponymName": "Zwevegem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 23358,
+            "countryCode": "BE",
+            "name": "Zwevegem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.81268",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "2.98725",
+            "geonameId": 2783184,
+            "toponymName": "Zonnebeke",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 11581,
+            "countryCode": "BE",
+            "name": "Zonnebeke",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.8726",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.36819",
+            "geonameId": 2783188,
+            "toponymName": "Zonhoven",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 19922,
+            "countryCode": "BE",
+            "name": "Zonhoven",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.99064",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "5.30983",
+            "geonameId": 2783197,
+            "toponymName": "Zolder",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 17289,
+            "countryCode": "BE",
+            "name": "Zolder",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.02455",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.1368",
+            "geonameId": 2783308,
+            "toponymName": "Zedelgem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 21968,
+            "countryCode": "BE",
+            "name": "Zedelgem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "51.14236",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "4.47298",
+            "geonameId": 2783310,
+            "toponymName": "Zaventem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 28188,
+            "countryCode": "BE",
+            "name": "Zaventem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.88365",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "VLG",
+            "lng": "3.16667",
+            "geonameId": 2783759,
+            "toponymName": "Wevelgem",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 30954,
+            "countryCode": "BE",
+            "name": "Wevelgem",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "VLG"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Flanders",
+            "lat": "50.8",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.60138",
+            "geonameId": 2783941,
+            "toponymName": "Wavre",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 34305,
+            "countryCode": "BE",
+            "name": "Wavre",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.71717",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.43796",
+            "geonameId": 2784189,
+            "toponymName": "Walcourt",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 17501,
+            "countryCode": "BE",
+            "name": "Walcourt",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.25401",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "5.10015",
+            "geonameId": 2800298,
+            "toponymName": "Ciney",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 14830,
+            "countryCode": "BE",
+            "name": "Ciney",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.29449",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "WAL",
+            "lng": "4.7212",
+            "geonameId": 2800430,
+            "toponymName": "Chaumont-Gistoux",
+            "countryId": "2802361",
+            "fcl": "P",
+            "population": 10943,
+            "countryCode": "BE",
+            "name": "Chaumont-Gistoux",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "WAL"
+            },
+            "countryName": "Belgium",
+            "fcodeName": "populated place",
+            "adminName1": "Wallonia",
+            "lat": "50.67753",
+            "fcode": "PPL"
+        }
+    ]

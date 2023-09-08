@@ -1,0 +1,1996 @@
+[
+        {
+            "adminCode1": "05",
+            "lng": "177.41617",
+            "geonameId": 2202064,
+            "toponymName": "Nadi",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 42284,
+            "countryCode": "FJ",
+            "name": "Nadi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.80309",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.51313",
+            "geonameId": 8740209,
+            "toponymName": "Nasinu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 92043,
+            "countryCode": "FJ",
+            "name": "Nasinu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.07051",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.83349",
+            "geonameId": 2204418,
+            "toponymName": "Levuka",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Levuka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.68177",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.50691",
+            "geonameId": 2198365,
+            "toponymName": "Sigatoka",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 17622,
+            "countryCode": "FJ",
+            "name": "Sigatoka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-18.14307",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.17002",
+            "geonameId": 2200478,
+            "toponymName": "Navua",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navua",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.22271",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.90999",
+            "geonameId": 2200574,
+            "toponymName": "Navidamu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navidamu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.52349",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.81318",
+            "geonameId": 2200743,
+            "toponymName": "Navala",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navala",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.6583",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.53063",
+            "geonameId": 2200826,
+            "toponymName": "Nausori",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nausori",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.03134",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "00",
+            "lng": "178.15511",
+            "geonameId": 2202169,
+            "toponymName": "Namalata",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Namalata",
+            "fclName": "city, village,...",
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "",
+            "lat": "-19.05774",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "179.38374",
+            "geonameId": 2202291,
+            "toponymName": "Nabuna",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabuna",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.2497",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "177.95551",
+            "geonameId": 2202313,
+            "toponymName": "Nabukelevu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabukelevu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-19.12725",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.5609",
+            "geonameId": 2202345,
+            "toponymName": "Nabua",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabua",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.10785",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "04",
+            "lng": "177.03934",
+            "geonameId": 2203449,
+            "toponymName": "Motusa",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Motusa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "R"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Rotuma",
+            "lat": "-12.50806",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "00",
+            "lng": "178.79203",
+            "geonameId": 2204249,
+            "toponymName": "Lovoni",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Lovoni",
+            "fclName": "city, village,...",
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "",
+            "lat": "-17.6905",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.55822",
+            "geonameId": 2204312,
+            "toponymName": "Lomanikoro",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Lomanikoro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.10447",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.40558",
+            "geonameId": 2204505,
+            "toponymName": "Lauwaki",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Lauwaki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.64851",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.40943",
+            "geonameId": 2204575,
+            "toponymName": "Lami",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Lami",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.11094",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.40914",
+            "geonameId": 2196647,
+            "toponymName": "Viseisei",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Viseisei",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.68763",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.84983",
+            "geonameId": 2197035,
+            "toponymName": "Vatukoula",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Vatukoula",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.50136",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.83077",
+            "geonameId": 2197157,
+            "toponymName": "Vagadaci",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Vagadaci",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.67192",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "178.15329",
+            "geonameId": 2197277,
+            "toponymName": "Vaileka",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Vaileka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.37894",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.86221",
+            "geonameId": 2197895,
+            "toponymName": "Tavua",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Tavua",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.44221",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.70399",
+            "geonameId": 2198228,
+            "toponymName": "Sorokoba",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Sorokoba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.48991",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.33564",
+            "geonameId": 2198520,
+            "toponymName": "Savusavu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Savusavu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.77942",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "-178.25137",
+            "geonameId": 4035838,
+            "toponymName": "Vatoa",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Vatoa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-19.82211",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "-179.97054",
+            "geonameId": 4035913,
+            "toponymName": "Somosomo",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Somosomo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.77229",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "-179.87091",
+            "geonameId": 4036093,
+            "toponymName": "Mbouma",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Mbouma",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.82262",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "-178.98717",
+            "geonameId": 4036119,
+            "toponymName": "Lomaloma",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Lomaloma",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.28942",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.66313",
+            "geonameId": 2200232,
+            "toponymName": "Nawaqarua Set",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nawaqarua Set",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.48002",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.37132",
+            "geonameId": 2200238,
+            "toponymName": "Nawaqabena",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nawaqabena",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.93642",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.5446",
+            "geonameId": 2200252,
+            "toponymName": "Nawamagi",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nawamagi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-18.0969",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.7687",
+            "geonameId": 2200282,
+            "toponymName": "Nawaido",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nawaido",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.99467",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.54581",
+            "geonameId": 2200425,
+            "toponymName": "Navunievu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navunievu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.80822",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.59822",
+            "geonameId": 2200457,
+            "toponymName": "Navukebuli",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navukebuli",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.27781",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "179.26082",
+            "geonameId": 2200461,
+            "toponymName": "Navukailagi",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navukailagi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.95683",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.4973",
+            "geonameId": 2200535,
+            "toponymName": "Naviago",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naviago",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.5892",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.55436",
+            "geonameId": 2200665,
+            "toponymName": "Navatuyaba",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navatuyaba",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.06569",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.01667",
+            "geonameId": 2200712,
+            "toponymName": "Navata",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navata",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.48333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "179.36604",
+            "geonameId": 2200725,
+            "toponymName": "Navaga",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navaga",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.30662",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.15335",
+            "geonameId": 2200867,
+            "toponymName": "Natuvu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Natuvu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.74444",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.74102",
+            "geonameId": 2200897,
+            "toponymName": "Natunuku Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Natunuku Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.45278",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.78291",
+            "geonameId": 2200923,
+            "toponymName": "Natuatuathoko",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Natuatuathoko",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.88564",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.57305",
+            "geonameId": 2200960,
+            "toponymName": "Natogadravo",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Natogadravo",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.06181",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.3506",
+            "geonameId": 2201049,
+            "toponymName": "Nacomoto",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nacomoto",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-19.04831",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.42455",
+            "geonameId": 2201062,
+            "toponymName": "Nacokaika",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nacokaika",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.97056",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.33679",
+            "geonameId": 2201079,
+            "toponymName": "Nacekoro",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nacekoro",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.80287",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "179.42949",
+            "geonameId": 2201110,
+            "toponymName": "Nacamaki",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nacamaki",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.24519",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.43937",
+            "geonameId": 2201174,
+            "toponymName": "Natabua Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Natabua Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.64482",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.65387",
+            "geonameId": 2201349,
+            "toponymName": "Nasilai",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nasilai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.08296",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.37896",
+            "geonameId": 2201370,
+            "toponymName": "Naseva Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naseva Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.80934",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.74878",
+            "geonameId": 2201379,
+            "toponymName": "Nasesara",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nasesara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.75661",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "178.31667",
+            "geonameId": 2201500,
+            "toponymName": "Nasau",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nasau",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.45",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.82257",
+            "geonameId": 2201514,
+            "toponymName": "Nasarowaqa",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nasarowaqa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.6448",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.69257",
+            "geonameId": 2201714,
+            "toponymName": "Nanuca",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nanuca",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.74057",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.01853",
+            "geonameId": 2201764,
+            "toponymName": "Naqumu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naqumu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.47662",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.8",
+            "geonameId": 2201828,
+            "toponymName": "Nanggaravutu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nanggaravutu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.53333",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.49331",
+            "geonameId": 2201858,
+            "toponymName": "Naqara",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naqara",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-18.87913",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "179.43465",
+            "geonameId": 2201889,
+            "toponymName": "Naqaidamu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naqaidamu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.32224",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.67245",
+            "geonameId": 2201923,
+            "toponymName": "Nagadoa",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nagadoa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.8778",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.74601",
+            "geonameId": 2201969,
+            "toponymName": "Nadrugu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nadrugu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.7108",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.44921",
+            "geonameId": 2201977,
+            "toponymName": "Nadroumai",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nadroumai",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-18.10956",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.89912",
+            "geonameId": 2202074,
+            "toponymName": "Nadelei",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nadelei",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.54469",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.96337",
+            "geonameId": 2202101,
+            "toponymName": "Nadarivatu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nadarivatu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.56656",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.54605",
+            "geonameId": 2202116,
+            "toponymName": "Nadali",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nadali",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.03672",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.29491",
+            "geonameId": 2202121,
+            "toponymName": "Nadakuni",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nadakuni",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.97323",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "178.3331",
+            "geonameId": 2202144,
+            "toponymName": "Namuriwai Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Namuriwai Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.47167",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.41893",
+            "geonameId": 2202179,
+            "toponymName": "Navoci Namotomoto",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Navoci Namotomoto",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.79636",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.98106",
+            "geonameId": 2202244,
+            "toponymName": "Nabuyasa Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabuyasa Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.6312",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.87109",
+            "geonameId": 2202290,
+            "toponymName": "Nabuna Set",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabuna Set",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.43732",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "177.86634",
+            "geonameId": 2202315,
+            "toponymName": "Nabukelevu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabukelevu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.1283",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "178.39208",
+            "geonameId": 2202320,
+            "toponymName": "Nabukadra",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabukadra",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.54212",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.32277",
+            "geonameId": 2202323,
+            "toponymName": "Nabukaluka",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabukaluka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.97632",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.94724",
+            "geonameId": 2202348,
+            "toponymName": "Nabouwaqa",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabouwaqa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.70834",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.68567",
+            "geonameId": 2202351,
+            "toponymName": "Nabouwalu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabouwalu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.00457",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.69078",
+            "geonameId": 2202352,
+            "toponymName": "Nabouwalu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabouwalu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.99745",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "177.82391",
+            "geonameId": 2202358,
+            "toponymName": "Naboutini",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naboutini",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.23696",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.50663",
+            "geonameId": 2202359,
+            "toponymName": "Boutini Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Boutini Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.72853",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.81218",
+            "geonameId": 2202360,
+            "toponymName": "Naboutini",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naboutini",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.33157",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.62144",
+            "geonameId": 2202361,
+            "toponymName": "Nabouciwa",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabouciwa",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.06011",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.09261",
+            "geonameId": 2202365,
+            "toponymName": "Nambouono",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nambouono",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.45181",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.88862",
+            "geonameId": 2202444,
+            "toponymName": "Nabekavu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabekavu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.53864",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "179.3595",
+            "geonameId": 2202482,
+            "toponymName": "Nabaci",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nabaci",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.73524",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "177.83217",
+            "geonameId": 2202619,
+            "toponymName": "Namaqumaqua",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Namaqumaqua",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.2526",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.62143",
+            "geonameId": 2202625,
+            "toponymName": "Namada",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Namada",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-18.18898",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "179.41702",
+            "geonameId": 2202864,
+            "toponymName": "Nakodu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nakodu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.36851",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.59895",
+            "geonameId": 2202895,
+            "toponymName": "Nakelo Landing",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nakelo Landing",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.0617",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.5532",
+            "geonameId": 2203006,
+            "toponymName": "Nakalawaca",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Nakalawaca",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.83314",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "178.0906",
+            "geonameId": 2203045,
+            "toponymName": "Naivuvuni",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naivuvuni",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.37555",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.60908",
+            "geonameId": 2203049,
+            "toponymName": "Naivuruvuru",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naivuruvuru",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.87249",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "03",
+            "lng": "178.52327",
+            "geonameId": 2203107,
+            "toponymName": "Naivaka",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naivaka",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "N"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Northern",
+            "lat": "-16.64844",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.76569",
+            "geonameId": 2203140,
+            "toponymName": "Naicabecabe",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naicabecabe",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.76832",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "178.22674",
+            "geonameId": 2203181,
+            "toponymName": "Naiserelangi",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naiserelangi",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-17.45834",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.5674",
+            "geonameId": 2203192,
+            "toponymName": "Naisaumua",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naisaumua",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-17.89336",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "05",
+            "lng": "177.44218",
+            "geonameId": 2203338,
+            "toponymName": "Naevuevu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Naevuevu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "W"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Western",
+            "lat": "-18.152",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "179.40947",
+            "geonameId": 2203356,
+            "toponymName": "Mudu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Mudu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-17.37642",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.04602",
+            "geonameId": 2203380,
+            "toponymName": "Muainuku",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Muainuku",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-19.15187",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.53908",
+            "geonameId": 2203397,
+            "toponymName": "Muanaicake",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Muanaicake",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.12757",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.61827",
+            "geonameId": 2203569,
+            "toponymName": "Buretu",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Buretu",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.05026",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "02",
+            "lng": "178.08988",
+            "geonameId": 2203591,
+            "toponymName": "Burelevu Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Burelevu Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "E"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Eastern",
+            "lat": "-19.1543",
+            "fcode": "PPL"
+        },
+        {
+            "adminCode1": "01",
+            "lng": "178.53736",
+            "geonameId": 2203602,
+            "toponymName": "Buiduna Settlement",
+            "countryId": "2205218",
+            "fcl": "P",
+            "population": 0,
+            "countryCode": "FJ",
+            "name": "Buiduna Settlement",
+            "fclName": "city, village,...",
+            "adminCodes1": {
+                "ISO3166_2": "C"
+            },
+            "countryName": "Fiji",
+            "fcodeName": "populated place",
+            "adminName1": "Central",
+            "lat": "-18.00025",
+            "fcode": "PPL"
+        }
+    ]
